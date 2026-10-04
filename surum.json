@@ -1,11 +1,11 @@
 {
  "payload": {
   "surum": "1.1.0",
-  "url": "https://raw.githubusercontent.com/mrtzdmr16/musavir-masasi-guncelleme/main/surum.json",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.1.0/MusavirMasasi_Kurulum_1.1.0.exe",
   "sha256": "ccf999e98cd5c2840d1d3e5f185ff74e483fe47ba4994a1c2f6594f173c53740",
   "boyut": 106578109,
-  "notlar": "KDV tablosu ekranı yenilendi: ay şeridi, gösterge kartları ve hesap özeti.",
-  "tarih": "2026-10-03"
+  "notlar": "",
+  "tarih": "2026-10-04"
  },
- "imza": "pdRPr6eerMFwYLsWfLQ2Vj6_5Jpkn-vnjAmijde1MwM1O3CzVEasO3HI_kAkwRjrpdV4SHcWXbopBxwGHaBODQ"
+ "imza": "8hWRN2SWSgB6qlzzcLHqsD_v4eaquUnYo4weZnB24vYDzgBQN1M0BtIeOjhpWYJLNVSshqpZbJfr8EJrpma8AA"
 }

@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.2.1",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.2.1/MusavirMasasi_Kurulum_1.2.1.exe",
-  "sha256": "38821ea351c50a7b2e4440ced989634e02121df59a0608f0fbf7c30cde8e9f5b",
-  "boyut": 127212493,
-  "notlar": "Bazı iyileştirmeler;\nRam belleğini fazla yormayacak şekilde tekrardan revize edildi.",
-  "tarih": "2026-10-04"
+  "surum": "1.2.3",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.2.3/MusavirMasasi_Kurulum_1.2.3.exe",
+  "sha256": "79b36513849dc3e07a39f5e811818ffb90df8fc8a4fbe1505cde49cf6574868a",
+  "boyut": 212955881,
+  "notlar": "",
+  "tarih": "2026-10-08"
  },
- "imza": "qTIArBhfEIEWhqn0Epqc_cmyyKkz0DzdCQsNnb39aoEa_zfJlkiyBRa44eli6eLs1_HAr0TqvBmQ7UJmakHYAg"
+ "imza": "VbfjBdb6qJNwtO-nSNTl6yZYRgkigw9OkvhP4EV2T-YWmmNo9cbIhZatBMM4LlbYJqV1iXBlKLsaNG-0Orm1Cw"
 }

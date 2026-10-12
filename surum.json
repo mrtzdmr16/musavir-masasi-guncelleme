@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.2.4",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.2.4/MusavirMasasi_Kurulum_1.2.4.exe",
-  "sha256": "615f4fd2c1e588c243d09c730d3515f5760573adddf0954233bd2b5c011ab113",
-  "boyut": 218807431,
+  "surum": "1.2.5",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.2.5/MusavirMasasi_Kurulum_1.2.5.exe",
+  "sha256": "a2d095a76f2f95902ef6404a6acc1116cce64efa36765a8c48ebeee7753f937a",
+  "boyut": 219046148,
   "notlar": "",
-  "tarih": "2026-10-10"
+  "tarih": "2026-10-12"
  },
- "imza": "Q7-8cZewbH-jL2BPpFzkfyrOKY4rE79n-vThVkFETOk6o1QSfadCooHzpHWXwTyHZFB9AfkMxZfl7mpHatJIDQ"
+ "imza": "LDMMxiBcTBMyQVDIsg6FEGjffe70jcrIuy7T_LWU9OJ9hvDwkmFi-hJ9shHwzfA1ijz6GlmmCg4DcsEmEecNAw"
 }

@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.3.2",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.3.2/MusavirMasasi_Kurulum_1.3.2.exe",
-  "sha256": "47caf76700f53f0e3d62378da204853a0c2fba9627cc103f7d6eff9dee7837f0",
-  "boyut": 224460927,
-  "notlar": "• Yeni koyu ve modern arayüz: neon vurgular, renkli menü, parıltılı bölüm kartları\n• Program daha hızlı: modüller arası geçiş anında, kaydırma akıcı, firma listesi ve arama hızlandı\n• Portal Girişleri: GİB ve SGK şifreleri Luca'dan toplu çekiliyor; firma aramasında Türkçe karakter (İ/ı) sorunu giderildi; portal açılırken boş sayfa açılmıyor\n• Kronos: çekme sırasında Luca'da firma değişirse işlem durur; başka firmanın faturası yanlış firmaya yazılamaz\n• Duyurular: GİB ve Hazine ve Maliye Bakanlığı duyuruları yeniden geliyor (metin ve PDF ekleriyle)",
-  "tarih": "2026-10-21"
+  "surum": "1.4.0",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.4.0/MusavirMasasi_Kurulum_1.4.0.exe",
+  "sha256": "651183e6e68cd1576fd972afc48b08e7d738831151275cecf717df20f361f76c",
+  "boyut": 225197742,
+  "notlar": "• Büro içi ortak çalışma: veriler ağdaki ortak klasörde, birden çok bilgisayar aynı anda (Ayarlar › Büro içi ortak çalışma)\n• Dönem Sonu Sihirbazı: mizandan KDV mahsup ve gider yansıtma fişi, dönem sonu kontrolleri ve mükellefe tek sayfalık PDF rapor\n• Otomatik şifreli yedekleme: her gün seçtiğiniz klasöre (OneDrive / Google Drive), son 30 yedek\n• Büro panosu: beyan son günleri, faturalar ve tebligatlar otomatik; WhatsApp ile belge / tahakkuk hatırlatma; telefonları Excel'den alma; toplu vergi sorumluluğu\n• e-Defter dönem kilidi: kapanmış döneme ait fişler açık dönemin ilk gününe yazılır, asıl tarih evrak tarihinde kalır\n• Fatura ajanı çok daha hızlı; düşük donanımda hafif görünüm (Ayarlar › Görsel performans)\n• El yazısı tabloları yapay zekâyla Excel'e çevirme; GEKAP ve Turizm Payı takvime eklendi, Ba-Bs kaldırıldı\n• Yeni başlayanlar için örnek firma ve 'Başlarken' listesi; yenilenen kurulum ekranı",
+  "tarih": "2026-10-23"
  },
- "imza": "CgQ_ufm3OyQ_6GAnFxyFoQ1fneAt1vlUhuBzIjSKutFRl_AptmVp8QM7rOl9zcSB_DD-r4uCf1UcAu-S3Wx7CQ"
+ "imza": "jkFtUAGdbdnFs0--LEHV6raf2vqHqY6_Icdqa-Q_kx0p4xC5BFXRK66nQgxvsD7xkA0m8Iv-1EIvesCmGPmVCQ"
 }

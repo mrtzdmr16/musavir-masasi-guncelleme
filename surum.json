@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.4.0",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.4.0/MusavirMasasi_Kurulum_1.4.0.exe",
-  "sha256": "651183e6e68cd1576fd972afc48b08e7d738831151275cecf717df20f361f76c",
-  "boyut": 225197742,
-  "notlar": "• Büro içi ortak çalışma: veriler ağdaki ortak klasörde, birden çok bilgisayar aynı anda (Ayarlar › Büro içi ortak çalışma)\n• Dönem Sonu Sihirbazı: mizandan KDV mahsup ve gider yansıtma fişi, dönem sonu kontrolleri ve mükellefe tek sayfalık PDF rapor\n• Otomatik şifreli yedekleme: her gün seçtiğiniz klasöre (OneDrive / Google Drive), son 30 yedek\n• Büro panosu: beyan son günleri, faturalar ve tebligatlar otomatik; WhatsApp ile belge / tahakkuk hatırlatma; telefonları Excel'den alma; toplu vergi sorumluluğu\n• e-Defter dönem kilidi: kapanmış döneme ait fişler açık dönemin ilk gününe yazılır, asıl tarih evrak tarihinde kalır\n• Fatura ajanı çok daha hızlı; düşük donanımda hafif görünüm (Ayarlar › Görsel performans)\n• El yazısı tabloları yapay zekâyla Excel'e çevirme; GEKAP ve Turizm Payı takvime eklendi, Ba-Bs kaldırıldı\n• Yeni başlayanlar için örnek firma ve 'Başlarken' listesi; yenilenen kurulum ekranı",
+  "surum": "1.5.0",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.5.0/MusavirMasasi_Kurulum_1.5.0.exe",
+  "sha256": "1e9e20bee7673ddd61111c2bced070a04cbf401ce01ac017c9b281e8057ae9dc",
+  "boyut": 225274835,
+  "notlar": "• Luca'dan mizan artık Luca'nın kendi Mizan raporundan alınıyor: yıl başından ya da yalnızca seçilen ay (KDV tablosu için aylık mizan)\n• Üretim maliyeti: hammadde stoğu Luca Özet Miktar Raporu'ndan (kalan miktar ve tutar); rapor istenirse Excel / PDF olarak da kaydedilir\n• Satılan ürünlerin 151 / 152 / 710 / 620 hesapları Luca planından otomatik eşlenir (firmada tek hesapsa o, ürün bazındaysa ürünün hesabı); eksik ürün hesapları onayınızla Luca'da açılır\n• Yenilenen açık görünüm: koyu moddaki kart tasarımı artık açık modda da\n• Düzeltmeler: KDV Tablosu aktif firmayla açılır; yönetim raporunda büyük tutarlar ve grafik etiketleri artık kesilmez / üst üste binmez; menüde uzun bölüm adları kısaltıldı",
   "tarih": "2026-10-23"
  },
- "imza": "jkFtUAGdbdnFs0--LEHV6raf2vqHqY6_Icdqa-Q_kx0p4xC5BFXRK66nQgxvsD7xkA0m8Iv-1EIvesCmGPmVCQ"
+ "imza": "uc1hnydUsH58h8hv8WvQZZiE7-rpGOCVPddPYm7UwtWR3aVxL9u20EUNXn2kvqFsC5kfT26fGXz6IqaErcfLBQ"
 }

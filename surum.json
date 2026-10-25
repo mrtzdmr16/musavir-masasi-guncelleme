@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.5.0",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.5.0/MusavirMasasi_Kurulum_1.5.0.exe",
-  "sha256": "1e9e20bee7673ddd61111c2bced070a04cbf401ce01ac017c9b281e8057ae9dc",
-  "boyut": 225274835,
-  "notlar": "• Luca'dan mizan artık Luca'nın kendi Mizan raporundan alınıyor: yıl başından ya da yalnızca seçilen ay (KDV tablosu için aylık mizan)\n• Üretim maliyeti: hammadde stoğu Luca Özet Miktar Raporu'ndan (kalan miktar ve tutar); rapor istenirse Excel / PDF olarak da kaydedilir\n• Satılan ürünlerin 151 / 152 / 710 / 620 hesapları Luca planından otomatik eşlenir (firmada tek hesapsa o, ürün bazındaysa ürünün hesabı); eksik ürün hesapları onayınızla Luca'da açılır\n• Yenilenen açık görünüm: koyu moddaki kart tasarımı artık açık modda da\n• Düzeltmeler: KDV Tablosu aktif firmayla açılır; yönetim raporunda büyük tutarlar ve grafik etiketleri artık kesilmez / üst üste binmez; menüde uzun bölüm adları kısaltıldı",
-  "tarih": "2026-10-23"
+  "surum": "1.6.0",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.0/MusavirMasasi_Kurulum_1.6.0.exe",
+  "sha256": "00f063626b52417e8bb7da5327dacc49a5abccb7d35a873557f3a051f9609736",
+  "boyut": 225422567,
+  "notlar": "• VKN / TCKN sorgusu Luca üzerinden: ünvan, vergi dairesi ve adres Luca'daki TÜRMOB anahtarıyla gelir (tek sorgu ve toplu liste); anahtar Luca'da kalır\n• Üretim maliyeti faturasız ve dönemsel: satışlar (600–601) yalnız seçilen dönem, hammadde (150) kalanı yıl başından dönem sonuna Luca Özet Miktar Raporu'ndan; ticari mal satırları listeden silinebilir\n• Deneme sürümünde Excel çıktısı ve Luca Aktar dahil tüm özellikler açık\n• Güncelleme kurulurken kurulum ekranı görünür; güncellemeden sonraki ilk açılışta yeni sürüm ekranı",
+  "tarih": "2026-10-25"
  },
- "imza": "uc1hnydUsH58h8hv8WvQZZiE7-rpGOCVPddPYm7UwtWR3aVxL9u20EUNXn2kvqFsC5kfT26fGXz6IqaErcfLBQ"
+ "imza": "j9VuWC00C0xsMU1HMr_0gmgCIiJSjZPRolWLSGTSJRcmpuXHfBtM3tU_-HJrvVhgK_yh590zX6wnqE-a4Y4JCA"
 }

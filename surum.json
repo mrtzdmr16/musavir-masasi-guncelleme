@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.6.4",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.4/MusavirMasasi_Kurulum_1.6.4.exe",
-  "sha256": "630cadec284d535b197a240bd2e766c5bd0336b37cd98de580b3891ca11e75e3",
-  "boyut": 225572287,
-  "notlar": "Müşavir Masası 1.6.4\n\n- Büro Yönetimi › GİB'den indir (Luca): GİB'e verilmiş beyannameler Luca'nın GİB Beyanname Takip ekranı üzerinden sorgulanır (Luca'daki Kurum Şifre Bilgileri kullanılır). Onaylı beyannamelerin beyanname ve tahakkuk PDF'leri mükellef ve dönem klasörlerine iner.\n- İnen beyannameler mükellef kartlarıyla eşleşir ve onayınızla Vergi Kontrol'de verildi işaretlenir. KDV ve muhtasar Pano'da da işaretlenir.\n- Yeni Beyanname/Tahakkuk sekmesi: ödenecek tutar ve son ödeme tarihiyle liste. Çift tıklayınca PDF açılır.\n- Tahakkuku mükellefe gönder: tahakkuk PDF'leri panoya kopyalanır ve tutar/son ödeme satırlarıyla WhatsApp mesajı hazırlanır. Sohbette Ctrl+V ile PDF eklenir. Birden çok mükellefe sırayla gönderilebilir; gönderilenler işaretlenir.\n- Program beyanname onaylamaz ve göndermez; yalnızca sorgular ve indirir.",
+  "surum": "1.6.5",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.5/MusavirMasasi_Kurulum_1.6.5.exe",
+  "sha256": "629ffdcd65155e235f2388cad87f8c3b0c224c5c2a24f6ce06fa09685e32b617",
+  "boyut": 225616833,
+  "notlar": "Müşavir Masası 1.6.5\n\n- Muhtasar ve prim hizmet beyannamelerinin SGK tahakkuk fişleri ve hizmet listeleri de GİB'den (Luca üzerinden) iner.\n- Beyanname/Tahakkuk sekmesinde SGK tahakkuk ve SGK ödenecek tutar sütunları; SGK tahakkuku ve hizmet listesi tek tıkla açılır.\n- Yeni Cam görünüm (Ayarlar › Görünüm modu › Cam): kum rengi zemin üstünde krem buzlu cam kartlar, kiremit vurgu. Üstteki güneş/ay düğmesi koyudan Cam'a geri döner.\n- Tahakkuku mükellefe gönder: SGK tahakkukları da panoya kopyalanır, mesajda SGK prim tutarı ve son ödeme tarihi yer alır.",
   "tarih": "2026-10-25"
  },
- "imza": "G4sB3wCErdzos_MsRu-JS4nbaPuqZ7odUuDD8g-I_VitJKA4ChYlOiUfOLC1v8w3B7z0Nfy4uuKiyEcgazWvCg"
+ "imza": "XHszMjeMv5k5AcBwHmENJMIdiy1tbcRFEOtrXSajMRAdpXLKnJZt7jyeO7atBx8aUKnDWkCj-kbe53uwmkLNCQ"
 }

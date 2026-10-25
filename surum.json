@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.6.1",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.1/MusavirMasasi_Kurulum_1.6.1.exe",
-  "sha256": "f87f55a2c3da459ddad843d1a6b62906b36c8d6fbbcb04b85e95428b8df1b67e",
-  "boyut": 225424909,
-  "notlar": "• Üretim maliyeti: Luca art arda istenen Özet Miktar raporunda bazen bir önceki raporu (ör. hammadde yerine satışları) veriyordu; program artık gelen raporun hesap aralığını denetler, yanlışsa yeniden ister\n• Hammadde kalanının yıl başından dönem sonuna alındığı ekranda yazıyor",
+  "surum": "1.6.2",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.2/MusavirMasasi_Kurulum_1.6.2.exe",
+  "sha256": "62f585a010e4c9b788966f2114747fe6666423c538fda833a7315eda23f9e5ee",
+  "boyut": 225454088,
+  "notlar": "• Üretim Maliyeti › Ürün Hesap Tanımları: 710 / 151 / 152 / 620 kutularında aşağı ok tuşu firmanın hesap planındaki hesapları listeler; yazınca süzülür, Enter ile seçilir. Kutunun altında hesabın adı görünür, planda olmayan kod kırmızıyla işaretlenir",
   "tarih": "2026-10-25"
  },
- "imza": "h6e4CDwEI7z6u_rzb-vbB6WZMWJMPU70AgSpLw_Ing8tekNsoQsClXbZTMPnaIsA_Yxsau12lmq4TOt5VlaDBA"
+ "imza": "Ij0JKZtn_CtFHICpWNGAolpdSVwKPuqEJZUiYPDiQGe7Ta2PJJZjToAKs7JzdZwfUmxmIVx_90CeoDgqC3lSAg"
 }

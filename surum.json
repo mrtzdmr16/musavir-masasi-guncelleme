@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.6.0",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.0/MusavirMasasi_Kurulum_1.6.0.exe",
-  "sha256": "00f063626b52417e8bb7da5327dacc49a5abccb7d35a873557f3a051f9609736",
-  "boyut": 225422567,
-  "notlar": "• VKN / TCKN sorgusu Luca üzerinden: ünvan, vergi dairesi ve adres Luca'daki TÜRMOB anahtarıyla gelir (tek sorgu ve toplu liste); anahtar Luca'da kalır\n• Üretim maliyeti faturasız ve dönemsel: satışlar (600–601) yalnız seçilen dönem, hammadde (150) kalanı yıl başından dönem sonuna Luca Özet Miktar Raporu'ndan; ticari mal satırları listeden silinebilir\n• Deneme sürümünde Excel çıktısı ve Luca Aktar dahil tüm özellikler açık\n• Güncelleme kurulurken kurulum ekranı görünür; güncellemeden sonraki ilk açılışta yeni sürüm ekranı",
+  "surum": "1.6.1",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.1/MusavirMasasi_Kurulum_1.6.1.exe",
+  "sha256": "f87f55a2c3da459ddad843d1a6b62906b36c8d6fbbcb04b85e95428b8df1b67e",
+  "boyut": 225424909,
+  "notlar": "• Üretim maliyeti: Luca art arda istenen Özet Miktar raporunda bazen bir önceki raporu (ör. hammadde yerine satışları) veriyordu; program artık gelen raporun hesap aralığını denetler, yanlışsa yeniden ister\n• Hammadde kalanının yıl başından dönem sonuna alındığı ekranda yazıyor",
   "tarih": "2026-10-25"
  },
- "imza": "j9VuWC00C0xsMU1HMr_0gmgCIiJSjZPRolWLSGTSJRcmpuXHfBtM3tU_-HJrvVhgK_yh590zX6wnqE-a4Y4JCA"
+ "imza": "h6e4CDwEI7z6u_rzb-vbB6WZMWJMPU70AgSpLw_Ing8tekNsoQsClXbZTMPnaIsA_Yxsau12lmq4TOt5VlaDBA"
 }

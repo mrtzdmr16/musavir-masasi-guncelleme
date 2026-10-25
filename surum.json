@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.6.2",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.2/MusavirMasasi_Kurulum_1.6.2.exe",
-  "sha256": "62f585a010e4c9b788966f2114747fe6666423c538fda833a7315eda23f9e5ee",
-  "boyut": 225454088,
-  "notlar": "• Üretim Maliyeti › Ürün Hesap Tanımları: 710 / 151 / 152 / 620 kutularında aşağı ok tuşu firmanın hesap planındaki hesapları listeler; yazınca süzülür, Enter ile seçilir. Kutunun altında hesabın adı görünür, planda olmayan kod kırmızıyla işaretlenir",
+  "surum": "1.6.3",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.3/MusavirMasasi_Kurulum_1.6.3.exe",
+  "sha256": "682d1a11ce8004c3f89a3b26e84516faa9094a01b4df6cc58547c6ad66a30327",
+  "boyut": 225455255,
+  "notlar": "• Üretim maliyeti: dağıtılacak genel üretim gideri artık mizandaki 730 − 731 farkı (geçmiş aylarda yansıtılan GÜG düşülür); kayıtlı mizan dönem sonu tarihli değilse Kronos uyarır",
   "tarih": "2026-10-25"
  },
- "imza": "Ij0JKZtn_CtFHICpWNGAolpdSVwKPuqEJZUiYPDiQGe7Ta2PJJZjToAKs7JzdZwfUmxmIVx_90CeoDgqC3lSAg"
+ "imza": "TLLbgKylTXbnq7jHfuo0qR_XmvAw_vau5PBwtiVJ2trrp07IYOacagR7e5srmIXJBL8rnu-qylQpRfRg9WFkDA"
 }

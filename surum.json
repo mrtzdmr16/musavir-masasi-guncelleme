@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.6.5",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.5/MusavirMasasi_Kurulum_1.6.5.exe",
-  "sha256": "629ffdcd65155e235f2388cad87f8c3b0c224c5c2a24f6ce06fa09685e32b617",
-  "boyut": 225616833,
-  "notlar": "Müşavir Masası 1.6.5\n\n- Muhtasar ve prim hizmet beyannamelerinin SGK tahakkuk fişleri ve hizmet listeleri de GİB'den (Luca üzerinden) iner.\n- Beyanname/Tahakkuk sekmesinde SGK tahakkuk ve SGK ödenecek tutar sütunları; SGK tahakkuku ve hizmet listesi tek tıkla açılır.\n- Yeni Cam görünüm (Ayarlar › Görünüm modu › Cam): kum rengi zemin üstünde krem buzlu cam kartlar, kiremit vurgu. Üstteki güneş/ay düğmesi koyudan Cam'a geri döner.\n- Tahakkuku mükellefe gönder: SGK tahakkukları da panoya kopyalanır, mesajda SGK prim tutarı ve son ödeme tarihi yer alır.",
-  "tarih": "2026-10-25"
+  "surum": "1.6.6",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.6.6/MusavirMasasi_Kurulum_1.6.6.exe",
+  "sha256": "29009a7b96fcefa848e4ae0595174511ea735016dca07665d5bb0ee075e1cce3",
+  "boyut": 225620764,
+  "notlar": "GİB beyanname indirmede uzun firma adlarında klasör hatası giderildi; inmeyen dosya atlanıp sonda listelenir. Luca oturum denetimi daha toleranslı, Kronos fatura çekmede yersiz yeniden giriş uyarısı azaltıldı.",
+  "tarih": "2026-10-27"
  },
- "imza": "XHszMjeMv5k5AcBwHmENJMIdiy1tbcRFEOtrXSajMRAdpXLKnJZt7jyeO7atBx8aUKnDWkCj-kbe53uwmkLNCQ"
+ "imza": "Mp_lg7PT2SxwRxTFqKyMYGLszfzV0gYAwyFhSSLA0c9dhJhb8VFdxLfLZXHVvf1FaixcULoweyB8idCYeqloAw"
 }

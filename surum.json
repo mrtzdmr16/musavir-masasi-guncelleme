@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.7.0",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.7.0/MusavirMasasi_Kurulum_1.7.0.exe",
-  "sha256": "3136ab43fb7be3a5e8893142ec1c378a7f76f32282f7a1fef4647993053cdafb",
-  "boyut": 226002642,
-  "notlar": "KURGAN hazırlığı: alış ve satış e-faturalarında sahte belge risk taraması (e-imza tarihi, yeni satıcı, faaliyet dışı alış, irsaliyesiz mal, ilişkili adres, kapasite aşımı, KDV payı, kârlılık); banka ekstresiyle ödeme/tahsilat izi; delil listesi ve Word yanıt taslağı; KURGAN yazısı takibi, büro kara listesi, panoda Risk sütunu ve WhatsApp bilgilendirmesi. Kronos: tüm bilanço firmalarının mizanı tek tıkla. Üretim maliyetinde elektrik ve işçilik kapasite raporuyla karşılaştırılır.",
-  "tarih": "2026-10-27"
+  "surum": "1.7.1",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.7.1/MusavirMasasi_Kurulum_1.7.1.exe",
+  "sha256": "b2bc337c1c4752df64972e1cd775b08973f6acc35a15f01549bb8850cd2678f6",
+  "boyut": 226019493,
+  "notlar": "Tebligatlar artık gerçekten iniyor: Dijital Vergi Dairesi tebligatları GİBin yeni e-Tebligat servisinden her gün arka planda çekilir, okunmuş olanların PDFi firmanın klasörüne iner; okunmamışların belgesi siz açınca indirilir. Doğrulama kodu istenirse bütün firmaların kodu tek pencerede sorulur. KURGAN risk taraması ve toplu mizan (1.7.0) bu sürümde de var.",
+  "tarih": "2026-10-28"
  },
- "imza": "0coA5lTvZ-rnMQ6Ff8qk-4zAGmdk9yjqdE_gcOf1jVsUh8tNPylmtg-JPV-JLAqogaMvuCvXDu_PcH2vuc0LDw"
+ "imza": "Agk35JCDTjq0OlfCQueYxK1yqnR_RQVsydxWcl9dHNw1ktqKZHPb5V01tfEWdHF0DPC23SlTv29bi8yVL9IgDw"
 }

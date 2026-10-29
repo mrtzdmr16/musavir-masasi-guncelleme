@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.0",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.0/MusavirMasasi_Kurulum_1.8.0.exe",
-  "sha256": "01516b638bc83300cd1157092dba1b7039e8a629884c462223b7bf2f846fcba8",
-  "boyut": 227054763,
-  "notlar": "SGK işyerleri sırayla: borç, prim bakiyesi, APHB, müfredat ve e-Borcu Yoktur (isteğe bağlı barkodlu belge); APHB'deki giriş-çıkışların SGK bildirgeleri kontrol edilir, geç verilenler işaretlenir, bildirge PDF'i iner. Ticaret Sicil Gazetesi ilanları toplu taranır. Vergi levhası, İVD borç ve Dijital VD sorguları; mükellefe ve bankacıya e-posta; KDV Tablosu'ndan e-Beyan'a aktarım ve yüklenim listesi; KURGAN taraması Luca'dan; 120 bakiyesini aşan tahsilat 340'a ayrılır. Mükellef kartı genişledi, kapasite raporu bitişi hatırlatılır.",
+  "surum": "1.8.1",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.1/MusavirMasasi_Kurulum_1.8.1.exe",
+  "sha256": "eaa05b7e5fa6343a29b6f60c5382dfe31e08e9f472ed698deca3cb01ceb3f529",
+  "boyut": 227124450,
+  "notlar": "Millî bayram ve anma günlerinde (23 Nisan, 19 Mayıs, 30 Ağustos, 29 Ekim, 10 Kasım, 18 Mart, 15 Temmuz, yılbaşı) program açılırken dalgalanan Türk bayraklı kısa bir tören ekranı gösterilir; ana sayfada o güne özel kutlama satırı yer alır. Ekran günde bir kez çıkar, tıklayınca geçilir.",
   "tarih": "2026-10-29"
  },
- "imza": "QgJ7ONbj5y2hhhzxfwsxT296EnKrlybFDkPthkoaB_m6AMO-YyhOj3O1Bn49bNP7gkdvnVDcAQhIB2lYKJg3Cw"
+ "imza": "u06Nd16gmE-1_HCE48hGj9eE3psK5Evqsnd_3WewRupbD6c2tc6y0tafGQZwRjivgXYbFva1hvwiK4Up3MsHDg"
 }

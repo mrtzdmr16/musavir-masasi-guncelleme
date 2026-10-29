@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.7.1",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.7.1/MusavirMasasi_Kurulum_1.7.1.exe",
-  "sha256": "b2bc337c1c4752df64972e1cd775b08973f6acc35a15f01549bb8850cd2678f6",
-  "boyut": 226019493,
-  "notlar": "Tebligatlar artık gerçekten iniyor: Dijital Vergi Dairesi tebligatları GİBin yeni e-Tebligat servisinden her gün arka planda çekilir, okunmuş olanların PDFi firmanın klasörüne iner; okunmamışların belgesi siz açınca indirilir. Doğrulama kodu istenirse bütün firmaların kodu tek pencerede sorulur. KURGAN risk taraması ve toplu mizan (1.7.0) bu sürümde de var.",
-  "tarih": "2026-10-28"
+  "surum": "1.8.0",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.0/MusavirMasasi_Kurulum_1.8.0.exe",
+  "sha256": "01516b638bc83300cd1157092dba1b7039e8a629884c462223b7bf2f846fcba8",
+  "boyut": 227054763,
+  "notlar": "SGK işyerleri sırayla: borç, prim bakiyesi, APHB, müfredat ve e-Borcu Yoktur (isteğe bağlı barkodlu belge); APHB'deki giriş-çıkışların SGK bildirgeleri kontrol edilir, geç verilenler işaretlenir, bildirge PDF'i iner. Ticaret Sicil Gazetesi ilanları toplu taranır. Vergi levhası, İVD borç ve Dijital VD sorguları; mükellefe ve bankacıya e-posta; KDV Tablosu'ndan e-Beyan'a aktarım ve yüklenim listesi; KURGAN taraması Luca'dan; 120 bakiyesini aşan tahsilat 340'a ayrılır. Mükellef kartı genişledi, kapasite raporu bitişi hatırlatılır.",
+  "tarih": "2026-10-29"
  },
- "imza": "Agk35JCDTjq0OlfCQueYxK1yqnR_RQVsydxWcl9dHNw1ktqKZHPb5V01tfEWdHF0DPC23SlTv29bi8yVL9IgDw"
+ "imza": "QgJ7ONbj5y2hhhzxfwsxT296EnKrlybFDkPthkoaB_m6AMO-YyhOj3O1Bn49bNP7gkdvnVDcAQhIB2lYKJg3Cw"
 }

@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.1",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.1/MusavirMasasi_Kurulum_1.8.1.exe",
-  "sha256": "eaa05b7e5fa6343a29b6f60c5382dfe31e08e9f472ed698deca3cb01ceb3f529",
-  "boyut": 227124450,
-  "notlar": "Millî bayram ve anma günlerinde (23 Nisan, 19 Mayıs, 30 Ağustos, 29 Ekim, 10 Kasım, 18 Mart, 15 Temmuz, yılbaşı) program açılırken dalgalanan Türk bayraklı kısa bir tören ekranı gösterilir; ana sayfada o güne özel kutlama satırı yer alır. Ekran günde bir kez çıkar, tıklayınca geçilir.",
+  "surum": "1.8.2",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.2/MusavirMasasi_Kurulum_1.8.2.exe",
+  "sha256": "f5e5588217ec07803ae9a6fbd64565b1975ce4e85ada7d9303e7957b64bcce17",
+  "boyut": 227170526,
+  "notlar": "Ana sayfada YouTube kanalımızın (@musavirmasasi) son videosu görünür; tek tıkla izleyebilir ya da abone olabilirsiniz. Bir modülün anlatım videosu varsa modül sayfasında Nasıl yapılır? düğmesi çıkar. Yeni videolar program güncellemesi gerekmeden gelir.",
   "tarih": "2026-10-29"
  },
- "imza": "u06Nd16gmE-1_HCE48hGj9eE3psK5Evqsnd_3WewRupbD6c2tc6y0tafGQZwRjivgXYbFva1hvwiK4Up3MsHDg"
+ "imza": "R38cp7VIo7D9NQ2kahYKgL3kAjOCCbN27Dd_M42Vw-CYBOJVo0ik2mlf1c4JLInSNUaBvG5fnSiONpgVOn3DBQ"
 }

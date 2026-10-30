@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.2",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.2/MusavirMasasi_Kurulum_1.8.2.exe",
-  "sha256": "f5e5588217ec07803ae9a6fbd64565b1975ce4e85ada7d9303e7957b64bcce17",
-  "boyut": 227170526,
-  "notlar": "Ana sayfada YouTube kanalımızın (@musavirmasasi) son videosu görünür; tek tıkla izleyebilir ya da abone olabilirsiniz. Bir modülün anlatım videosu varsa modül sayfasında Nasıl yapılır? düğmesi çıkar. Yeni videolar program güncellemesi gerekmeden gelir.",
-  "tarih": "2026-10-29"
+  "surum": "1.8.3",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.3/MusavirMasasi_Kurulum_1.8.3.exe",
+  "sha256": "9306198241b8bc780cb346f5bf4434932fa5089a92fb3f1e02a5c903170d072b",
+  "boyut": 227485629,
+  "notlar": "Analiz ve kontrol ekranları (E-Müfettiş, KURGAN, Beyanname Kontrol, E-Fatura Analizi, Dönem Sonu, KDV İade, Kredi Karnesi, Bilanço Analizi, Özkaynak, Vergi Yükü, Dashboard) yeni kart görünümüne geçti; bulgular önem sırasıyla, öneri kutularıyla gösterilir. Kullanımı zor modüllerde ilk açılışta 'Nasıl kullanılır?' ipucu kartı çıkar. Üretim maliyetinde hesap kodları firmaya göre saklanır, ihraç kayıtlı ve ihracat satışları ayrı gösterilir; PDF'ten Excel'e dönüştürme ve kapasite raporu okuma iyileştirildi.",
+  "tarih": "2026-10-30"
  },
- "imza": "R38cp7VIo7D9NQ2kahYKgL3kAjOCCbN27Dd_M42Vw-CYBOJVo0ik2mlf1c4JLInSNUaBvG5fnSiONpgVOn3DBQ"
+ "imza": "Z6lYnNnpCvsmeQGv3451wMLYZOXdggGcVUzp7AMxazMJUn-ouxSB1UDnEeQXkLVPeXGrz21o1st_qsr9mDw3DA"
 }

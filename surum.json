@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.4",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.4/MusavirMasasi_Kurulum_1.8.4.exe",
-  "sha256": "4af6d3580b6fd94244b3e602061065bbc6019c561236690f5564b1565a32a08c",
-  "boyut": 227597695,
-  "notlar": "Büro Yönetimi › Beyanname/Tahakkuk › GİB'den indir artık Luca olmadan da çalışır: program kendi tarayıcısında Dijital VD'yi açar, kullanıcı kodunuzu ve şifrenizi yazar; doğrulama kodunu siz girersiniz, e-Beyanname'ye geçiş, beyanname, tahakkuk ve muhtasarların SGK tahakkuk / hizmet listesi PDF'lerinin indirilmesi ve sonunda güvenli çıkış kendiliğinden yapılır. Tarih aralığı son indirmeden başlar ve takvimden seçilir; ortak ağda bir kişinin indirdiğini herkes görür. Mükellefler ekranı sadeleşti (tür süzgeci, eksik bilgi, notlardaki şifreler gizli). Açılış ekranı sadeleşti.",
+  "surum": "1.8.5",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.5/MusavirMasasi_Kurulum_1.8.5.exe",
+  "sha256": "3a820f83e43199a8a2552c64da0c6cb9e3d62867e70e3fb10c0501392d38105c",
+  "boyut": 227625822,
+  "notlar": "Döviz & Altın'da güncel ve tarihli TCMB kurlarının çekilememesi düzeltildi (yavaş bağlantı artık bekleniyor, geçmiş kurlar daha hızlı). Tablolar yenilendi: kart içinde, zebra satırlı, sade başlıklı. Beyanname Takvimi aylara bölündü; KDV yıllık tablosunda yıl toplamı; Amortisman ve Cari Virman ekranları sadeleşti; KDV Tablosu düğmeleri dar pencerede kesilmiyor.",
   "tarih": "2026-10-31"
  },
- "imza": "eqG5G8lFEAuss85EDo210DLOUm9Bl93fVXDggaNBm_UKmBZd6vAqax9NHWvRE6Ew3z_Jy6tnJCEVEpuW3UXeBA"
+ "imza": "OYwm5PLjTnerD97jKau-B9-TJ5DrysGrCt1WfkxnH-iOuQxSYPN_0RACNyVPJD2QglkFVxTu8rxj16Pp3TnRCQ"
 }

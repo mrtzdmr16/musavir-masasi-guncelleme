@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.5",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.5/MusavirMasasi_Kurulum_1.8.5.exe",
-  "sha256": "3a820f83e43199a8a2552c64da0c6cb9e3d62867e70e3fb10c0501392d38105c",
-  "boyut": 227625822,
-  "notlar": "Döviz & Altın'da güncel ve tarihli TCMB kurlarının çekilememesi düzeltildi (yavaş bağlantı artık bekleniyor, geçmiş kurlar daha hızlı). Tablolar yenilendi: kart içinde, zebra satırlı, sade başlıklı. Beyanname Takvimi aylara bölündü; KDV yıllık tablosunda yıl toplamı; Amortisman ve Cari Virman ekranları sadeleşti; KDV Tablosu düğmeleri dar pencerede kesilmiyor.",
-  "tarih": "2026-10-31"
+  "surum": "1.8.6",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.6/MusavirMasasi_Kurulum_1.8.6.exe",
+  "sha256": "f082fbf42b6ccda5e3c54fa4b2981c4411cc42687e92d3e5883383c4bd90f117",
+  "boyut": 227786057,
+  "notlar": "Firma Merkezi'nden Luca firma listesi, hesap planı ve mizan tek yerden alınır. Ticari Mal Maliyeti'nde ürün bazında kâr oranı, eksik stoka başka kart seçimi, sıfır kartlar gizli, 621 seçimi. Üretim Maliyeti'nde tek kalem seçeneği. Yeni Gelir Vergisi hesaplama. Banka İşleme'de EFT ücretleri virman sayılmaz, ücret iadesi 649/679, kendi adlı cariye atama yok, her bankayı tanıyan Excel ekstre şablonu.",
+  "tarih": "2026-11-02"
  },
- "imza": "OYwm5PLjTnerD97jKau-B9-TJ5DrysGrCt1WfkxnH-iOuQxSYPN_0RACNyVPJD2QglkFVxTu8rxj16Pp3TnRCQ"
+ "imza": "aufZGGelr0DuMie-HKpPV8YNaBxC5FYE3sLW043usIl3_5_vvrhEnTnrEIM_EQpnsFdNnSBV7R3ySnem53syDg"
 }

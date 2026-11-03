@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.7",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.7/MusavirMasasi_Kurulum_1.8.7.exe",
-  "sha256": "4a92eefb01052e73884d02cb0540f6800e5ed471201bc56e820261aa76bec4a9",
-  "boyut": 227991284,
-  "notlar": "Yeni Rehber & Dilekçe bölümü: GİB vergi rehberleri, araç satışı kaydı, vergi dairesi ve SGK dilekçe örnekleri. Banka İşleme'de ters sıralı ekstreler doğru okunuyor, kendi hesaba transferler IBAN ile bulunuyor, eşleşmeler kilitlenebiliyor. Üretim Maliyeti'nde satışa göre hedef kâr, rapordaki ürünle elle eşleştirme, 730 fark fişi; ticari malda hedef kâr; amortisman hesaplarını açma.",
-  "tarih": "2026-11-03"
+  "surum": "1.8.8",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.8/MusavirMasasi_Kurulum_1.8.8.exe",
+  "sha256": "186e6ecc798dba9b7c8a37d5815f640043eab7997c1669d7d74c1d4e681b0c8c",
+  "boyut": 228001537,
+  "notlar": "Tutar kutularında binlik ayraç: yazarken 1.000.000 olarak görünür, nokta tuşu virgül yazar, kutudan çıkınca ,00 tamamlanır. Araç satışı, hızlı fiş, gelir vergisi, üretim maliyeti, KDV iadesi, asgari işçilik, döviz, finans hesapları ve diğer tutar ekranlarında.",
+  "tarih": "2026-11-04"
  },
- "imza": "ZC0ofchDIt8ytY7lCxoWjUfW4ZukOcIlMT1Gf9wPqhBhuig4aFXpGdf6kWC1oFyVHEXuau4UDr-a2ITV_04rBQ"
+ "imza": "dHNvc7RHid_Ajwyre8ikYxqyNl8okk6MiD71O6Jtdgcb5pIarSUOZISzLCCCWpIbWrV9FISnNQGsJcbPcZHBCw"
 }

@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.6",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.6/MusavirMasasi_Kurulum_1.8.6.exe",
-  "sha256": "f082fbf42b6ccda5e3c54fa4b2981c4411cc42687e92d3e5883383c4bd90f117",
-  "boyut": 227786057,
-  "notlar": "Firma Merkezi'nden Luca firma listesi, hesap planı ve mizan tek yerden alınır. Ticari Mal Maliyeti'nde ürün bazında kâr oranı, eksik stoka başka kart seçimi, sıfır kartlar gizli, 621 seçimi. Üretim Maliyeti'nde tek kalem seçeneği. Yeni Gelir Vergisi hesaplama. Banka İşleme'de EFT ücretleri virman sayılmaz, ücret iadesi 649/679, kendi adlı cariye atama yok, her bankayı tanıyan Excel ekstre şablonu.",
-  "tarih": "2026-11-02"
+  "surum": "1.8.7",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.7/MusavirMasasi_Kurulum_1.8.7.exe",
+  "sha256": "4a92eefb01052e73884d02cb0540f6800e5ed471201bc56e820261aa76bec4a9",
+  "boyut": 227991284,
+  "notlar": "Yeni Rehber & Dilekçe bölümü: GİB vergi rehberleri, araç satışı kaydı, vergi dairesi ve SGK dilekçe örnekleri. Banka İşleme'de ters sıralı ekstreler doğru okunuyor, kendi hesaba transferler IBAN ile bulunuyor, eşleşmeler kilitlenebiliyor. Üretim Maliyeti'nde satışa göre hedef kâr, rapordaki ürünle elle eşleştirme, 730 fark fişi; ticari malda hedef kâr; amortisman hesaplarını açma.",
+  "tarih": "2026-11-03"
  },
- "imza": "aufZGGelr0DuMie-HKpPV8YNaBxC5FYE3sLW043usIl3_5_vvrhEnTnrEIM_EQpnsFdNnSBV7R3ySnem53syDg"
+ "imza": "ZC0ofchDIt8ytY7lCxoWjUfW4ZukOcIlMT1Gf9wPqhBhuig4aFXpGdf6kWC1oFyVHEXuau4UDr-a2ITV_04rBQ"
 }

@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.8.9",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.8.9/MusavirMasasi_Kurulum_1.8.9.exe",
-  "sha256": "7194de87bde5d4a0c2ed5ad1d89c2e0dab53db9f7ebac6a874f86785af20d01e",
-  "boyut": 228095525,
-  "notlar": "Üretim Maliyeti ve Ağaç İmalatı'nda dört ayrı fiş: üretimin başlaması (710/150), oluşması (151/711-731), gerçekleşmesi (152/151), satılan mamul maliyeti (620/152). 730 satışa göre yüksekse fazla üretimle denge; 730 mizandan alınır; son yüklenen özet miktarlar saklanır. Kapasite raporundaki ölçülü hammaddeler stok kartıyla eşleşir; hammadde elle bağlanabilir, raporda olmayanlara ürün başına tüketim girilebilir. Ağaçta tomruk nakliyesi tomruk maliyetine eklenir, miktarı hatalı tomruk kartı uyarılır.",
-  "tarih": "2026-11-04"
+  "surum": "1.9.0",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.0/MusavirMasasi_Kurulum_1.9.0.exe",
+  "sha256": "fb90e910e2fe36010b3a1cbb7776436a9282f6c2bbbf30c1ee8e69df6932c5d4",
+  "boyut": 228380667,
+  "notlar": "Yeni Mükellef Uygulaması: müşterileriniz fiş, fatura ve dekontu telefondan gönderir; belgeler mükellef ve ay klasörüne iner, fiş okuyucuya aktarılır. Tahakkuklar tutar, son ödeme günü ve PDF ile müşterinin telefonuna bildirim olarak gider; aylık ödeme özeti, belge talebi ve mesajlaşma. Büro Yönetimi › Mükellef Uygulaması ve Beyanname/Tahakkuk › Uygulamaya gönder. Beyanname/Tahakkuk ve Aidat ekranlarında düğmeler artık hep görünür.",
+  "tarih": "2026-11-06"
  },
- "imza": "0yL-YZ5TtqxTDwqCJE1m8c1ciPhlZ8WAKIU5SGcgHYY8W9IIYoWKcidqhTLt1PxMkoTDvQNv8r3APqT71wxnDA"
+ "imza": "POU4d1UbGiym1vzxfrVX872SK7HotGj-q7OHHm2o2HzEbr8xjdfT-xuPxmMmfliDsZ7HxQ3dkln1JdaT7yo1DA"
 }

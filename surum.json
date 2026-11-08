@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.0",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.0/MusavirMasasi_Kurulum_1.9.0.exe",
-  "sha256": "fb90e910e2fe36010b3a1cbb7776436a9282f6c2bbbf30c1ee8e69df6932c5d4",
-  "boyut": 228380667,
-  "notlar": "Yeni Mükellef Uygulaması: müşterileriniz fiş, fatura ve dekontu telefondan gönderir; belgeler mükellef ve ay klasörüne iner, fiş okuyucuya aktarılır. Tahakkuklar tutar, son ödeme günü ve PDF ile müşterinin telefonuna bildirim olarak gider; aylık ödeme özeti, belge talebi ve mesajlaşma. Büro Yönetimi › Mükellef Uygulaması ve Beyanname/Tahakkuk › Uygulamaya gönder. Beyanname/Tahakkuk ve Aidat ekranlarında düğmeler artık hep görünür.",
-  "tarih": "2026-11-06"
+  "surum": "1.9.1",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.1/MusavirMasasi_Kurulum_1.9.1.exe",
+  "sha256": "a8c99b8f4d51b9a45693f23094333c289aa7ea94f7f28771c3fc1b187caa95eb",
+  "boyut": 228394049,
+  "notlar": "TÜRMOB e-Belge entegratöründen gelen alış ve satış faturaları da artık otomatik çekiliyor; Kronos fatura çekerken bu faturaları da listeler, içeriğini okur ve kayda hazırlar. Risk taraması (KURGAN) da TÜRMOB faturalarını kapsar.",
+  "tarih": "2026-11-08"
  },
- "imza": "POU4d1UbGiym1vzxfrVX872SK7HotGj-q7OHHm2o2HzEbr8xjdfT-xuPxmMmfliDsZ7HxQ3dkln1JdaT7yo1DA"
+ "imza": "q1Yu6Ydu2Y-pWBHmSDCKfPFzIvUPwf-2zbOUdGryZLknm5W3JLeHj_84C7IZ5SBxF4ZceTUPEu_iFJ-KuzxmBA"
 }

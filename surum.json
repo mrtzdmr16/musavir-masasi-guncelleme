@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.2",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.2/MusavirMasasi_Kurulum_1.9.2.exe",
-  "sha256": "a770f431f1ff532e4e301f844ca36a2362033009950371e7434f4b6e5ff1324e",
-  "boyut": 229328052,
-  "notlar": "İki yeni hesaplama eklendi: Finansman Gider Kısıtlaması (özsermayeyi aşan yabancı kaynağa isabet eden finansman giderinin %10'u KKEG; değerler mizandan otomatik dolar) ve Asgari Kurumlar Vergisi (KVK 32/C; ticari kâr + KKEG üzerinden sayılı istisna/indirimler düşülerek normal kurumlar vergisiyle karşılaştırır). Analiz & Denetim bölümünde; her ikisi de Excel raporu verir.",
-  "tarih": "2026-11-12"
+  "surum": "1.9.3",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.3/MusavirMasasi_Kurulum_1.9.3.exe",
+  "sha256": "7bdf510850df3a6d3a9398b9e444480fd5d79d493675665d4c87b18be0851059",
+  "boyut": 229538580,
+  "notlar": "İndirimli Kurumlar Vergisi (KVK 32/7) hesaplama aracı eklendi. İhracat kazancına 5 puan, imalat/üretim (sanayi sicil belgeli) kazancına 1 puan indirim uygulanır; enflasyon düzeltmesinden doğan kâr/zarar hasılat payıyla faaliyetlere dağıtılır. İndirimli orana tabi kazanç kurumlar vergisi matrahını aşamaz; Excel raporu alınır. Analiz ve Denetim bölümünde.",
+  "tarih": "2026-11-13"
  },
- "imza": "M6zQ-aLLv0t5jWXb_o734LZNKnNfIyWg3Q2BzE6BeG6LcJscnuqwchTZGv0Xp9HCmOSn2Tl13KigrryA_rzUAA"
+ "imza": "06ibM2YSurJ3hvgkX4BRZTQAt0FKHgrJdZq5w236hRl5UTa01qY4vPylWqxXOG21IdRhLKmUacJ59p_NLw8mCg"
 }

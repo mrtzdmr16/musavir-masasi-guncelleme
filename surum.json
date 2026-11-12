@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.1",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.1/MusavirMasasi_Kurulum_1.9.1.exe",
-  "sha256": "a8c99b8f4d51b9a45693f23094333c289aa7ea94f7f28771c3fc1b187caa95eb",
-  "boyut": 228394049,
-  "notlar": "TÜRMOB e-Belge entegratöründen gelen alış ve satış faturaları da artık otomatik çekiliyor; Kronos fatura çekerken bu faturaları da listeler, içeriğini okur ve kayda hazırlar. Risk taraması (KURGAN) da TÜRMOB faturalarını kapsar.",
-  "tarih": "2026-11-08"
+  "surum": "1.9.2",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.2/MusavirMasasi_Kurulum_1.9.2.exe",
+  "sha256": "a770f431f1ff532e4e301f844ca36a2362033009950371e7434f4b6e5ff1324e",
+  "boyut": 229328052,
+  "notlar": "İki yeni hesaplama eklendi: Finansman Gider Kısıtlaması (özsermayeyi aşan yabancı kaynağa isabet eden finansman giderinin %10'u KKEG; değerler mizandan otomatik dolar) ve Asgari Kurumlar Vergisi (KVK 32/C; ticari kâr + KKEG üzerinden sayılı istisna/indirimler düşülerek normal kurumlar vergisiyle karşılaştırır). Analiz & Denetim bölümünde; her ikisi de Excel raporu verir.",
+  "tarih": "2026-11-12"
  },
- "imza": "q1Yu6Ydu2Y-pWBHmSDCKfPFzIvUPwf-2zbOUdGryZLknm5W3JLeHj_84C7IZ5SBxF4ZceTUPEu_iFJ-KuzxmBA"
+ "imza": "M6zQ-aLLv0t5jWXb_o734LZNKnNfIyWg3Q2BzE6BeG6LcJscnuqwchTZGv0Xp9HCmOSn2Tl13KigrryA_rzUAA"
 }

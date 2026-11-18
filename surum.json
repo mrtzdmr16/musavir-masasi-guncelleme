@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.3",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.3/MusavirMasasi_Kurulum_1.9.3.exe",
-  "sha256": "7bdf510850df3a6d3a9398b9e444480fd5d79d493675665d4c87b18be0851059",
-  "boyut": 229538580,
-  "notlar": "İndirimli Kurumlar Vergisi (KVK 32/7) hesaplama aracı eklendi. İhracat kazancına 5 puan, imalat/üretim (sanayi sicil belgeli) kazancına 1 puan indirim uygulanır; enflasyon düzeltmesinden doğan kâr/zarar hasılat payıyla faaliyetlere dağıtılır. İndirimli orana tabi kazanç kurumlar vergisi matrahını aşamaz; Excel raporu alınır. Analiz ve Denetim bölümünde.",
-  "tarih": "2026-11-13"
+  "surum": "1.9.4",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.4/MusavirMasasi_Kurulum_1.9.4.exe",
+  "sha256": "f6b3742b20dbcd1843b07e4b7ec6aa2d89b62f3683a361c61199ed7998994b2a",
+  "boyut": 229730244,
+  "notlar": "Yeni E-Stajyer Eğitim modülü: mali müşavir stajyerleri için SGS ve Yeterlilik ayrı; görselleştirilmiş konu anlatımları, açıklamalı ve puanlı soru-cevap, geçmiş sınavları içe aktarma. Cari Virman'a ters bakiye / e-Defter kontrolü eklendi: mizandaki ters bakiyeleri bulur, düzeltme önerir (120 alacak→340, 159 alacak→320), gerekli karşı hesabı açmanıza yardım eder ve düzeltme fişi üretir. Banka işlemede yazdığınız hatırlama anahtarı artık korunuyor; öğrenilen kurallar ayrı pencereden düzeltilip silinebiliyor.",
+  "tarih": "2026-11-18"
  },
- "imza": "06ibM2YSurJ3hvgkX4BRZTQAt0FKHgrJdZq5w236hRl5UTa01qY4vPylWqxXOG21IdRhLKmUacJ59p_NLw8mCg"
+ "imza": "6z51Ec4d8TlMam5tJ4NYLLt0M-gvnjyhZdMvZmlvJ07s-1SV8FpFvOC9PDA--m6XxgqSIJTmdwsLgWD1Ji1oDg"
 }

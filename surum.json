@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.4",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.4/MusavirMasasi_Kurulum_1.9.4.exe",
-  "sha256": "f6b3742b20dbcd1843b07e4b7ec6aa2d89b62f3683a361c61199ed7998994b2a",
-  "boyut": 229730244,
-  "notlar": "Yeni E-Stajyer Eğitim modülü: mali müşavir stajyerleri için SGS ve Yeterlilik ayrı; görselleştirilmiş konu anlatımları, açıklamalı ve puanlı soru-cevap, geçmiş sınavları içe aktarma. Cari Virman'a ters bakiye / e-Defter kontrolü eklendi: mizandaki ters bakiyeleri bulur, düzeltme önerir (120 alacak→340, 159 alacak→320), gerekli karşı hesabı açmanıza yardım eder ve düzeltme fişi üretir. Banka işlemede yazdığınız hatırlama anahtarı artık korunuyor; öğrenilen kurallar ayrı pencereden düzeltilip silinebiliyor.",
-  "tarih": "2026-11-18"
+  "surum": "1.9.5",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.5/MusavirMasasi_Kurulum_1.9.5.exe",
+  "sha256": "e03f37817519e6aba96d13b61aecb1da3a973ad313ffa891db1c8d331fdb4db2",
+  "boyut": 229830246,
+  "notlar": "Cari Virman ekranına e-Defter öncesi \"ters bakiye\" kontrolü eklendi: doğasına aykırı (ters) bakiye veren hesaplar aynı ekranda, virmanların altında listelenir. Açılacak karşı hesap, firmanın hesap planındaki hedef ana hesabın son alt hesabı bir artırılarak önerilir; seçilenler tek fişe eklenir ve istenirse Luca'da otomatik açılır. Ayrıca yeni \"Belge Hatırlatıcı\" modülü: büronuzun ve mükelleflerin kapasite raporu, sanayi sicil belgesi, e-imza ve mali mühür son/geçerlilik tarihlerini takip eder; süresi dolmadan (60/30/15/7 gün kala ve dolduğu gün) program açılışında hatırlatır.",
+  "tarih": "2026-11-20"
  },
- "imza": "6z51Ec4d8TlMam5tJ4NYLLt0M-gvnjyhZdMvZmlvJ07s-1SV8FpFvOC9PDA--m6XxgqSIJTmdwsLgWD1Ji1oDg"
+ "imza": "HYtEJPGoDsGSEioyEsboC2aD_ELfyq56D_lvjjMtwDtRmVmYyiH8qezDYC8uagPEyvtFoMRaq5cIGDWTaXzPCA"
 }

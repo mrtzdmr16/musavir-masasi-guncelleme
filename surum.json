@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.5",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.5/MusavirMasasi_Kurulum_1.9.5.exe",
-  "sha256": "e03f37817519e6aba96d13b61aecb1da3a973ad313ffa891db1c8d331fdb4db2",
-  "boyut": 229830246,
-  "notlar": "Cari Virman ekranına e-Defter öncesi \"ters bakiye\" kontrolü eklendi: doğasına aykırı (ters) bakiye veren hesaplar aynı ekranda, virmanların altında listelenir. Açılacak karşı hesap, firmanın hesap planındaki hedef ana hesabın son alt hesabı bir artırılarak önerilir; seçilenler tek fişe eklenir ve istenirse Luca'da otomatik açılır. Ayrıca yeni \"Belge Hatırlatıcı\" modülü: büronuzun ve mükelleflerin kapasite raporu, sanayi sicil belgesi, e-imza ve mali mühür son/geçerlilik tarihlerini takip eder; süresi dolmadan (60/30/15/7 gün kala ve dolduğu gün) program açılışında hatırlatır.",
-  "tarih": "2026-11-20"
+  "surum": "1.9.6",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.6/MusavirMasasi_Kurulum_1.9.6.exe",
+  "sha256": "19d0f00af505016b9cae0028f42d16751fd938c8c9ef8ac870ac477a8019501d",
+  "boyut": 229858301,
+  "notlar": "Fiş Fotoğrafı Okuyucu artık e-Fatura/e-Arşiv faturalarını KALEM KALEM okur: her mal/hizmet ayrı satır olarak gelir ve adı tabloda görünür (faturayı açıp bakmaya gerek kalmaz). Satış faturalarında gelir 600 (yurtiçi) / 601 (yurtdışı), hesaplanan KDV 391 ve alıcı 120; alış faturalarında gider/stok, indirilecek KDV 191 ve satıcı 320 / kasa / kart hesapları otomatik gelir (yurtiçi/yurtdışı ve satış/alış faturadan anlaşılır). Bir ürünü bir kez hesaba atadığınızda aynı ürün sonraki faturalarda otomatik o hesaba düşer. Satıra çift tıklayıp yönü, mal/hizmeti ve karşı cari hesabını açılır listeden seçebilirsiniz; çok kalemli fatura tek fişte birleşir.",
+  "tarih": "2026-11-23"
  },
- "imza": "HYtEJPGoDsGSEioyEsboC2aD_ELfyq56D_lvjjMtwDtRmVmYyiH8qezDYC8uagPEyvtFoMRaq5cIGDWTaXzPCA"
+ "imza": "2BHP0oR-BFu9whstRII91N9fT4TYeJUu2rATR6bAmNzEbvPHQVaFxNcWYJPe98RjcUj8r2Be8F8O31BuxARwCA"
 }

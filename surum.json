@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.6",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.6/MusavirMasasi_Kurulum_1.9.6.exe",
-  "sha256": "19d0f00af505016b9cae0028f42d16751fd938c8c9ef8ac870ac477a8019501d",
-  "boyut": 229858301,
-  "notlar": "Fiş Fotoğrafı Okuyucu artık e-Fatura/e-Arşiv faturalarını KALEM KALEM okur: her mal/hizmet ayrı satır olarak gelir ve adı tabloda görünür (faturayı açıp bakmaya gerek kalmaz). Satış faturalarında gelir 600 (yurtiçi) / 601 (yurtdışı), hesaplanan KDV 391 ve alıcı 120; alış faturalarında gider/stok, indirilecek KDV 191 ve satıcı 320 / kasa / kart hesapları otomatik gelir (yurtiçi/yurtdışı ve satış/alış faturadan anlaşılır). Bir ürünü bir kez hesaba atadığınızda aynı ürün sonraki faturalarda otomatik o hesaba düşer. Satıra çift tıklayıp yönü, mal/hizmeti ve karşı cari hesabını açılır listeden seçebilirsiniz; çok kalemli fatura tek fişte birleşir.",
-  "tarih": "2026-11-23"
+  "surum": "1.9.7",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.7/MusavirMasasi_Kurulum_1.9.7.exe",
+  "sha256": "0c740de33a0f7db02d190349cdca1348b4a06c707d31d37129e52a6a196829d1",
+  "boyut": 229967001,
+  "notlar": "Surum 1.9.7: Ana sayfaya Firma Girisleri (vergi/SGK portallarina tek tikla, bilgiler otomatik dolar), Fis Okuyucu e-Fatura duzeltmeleri (dogru matrah, miktar, farkli KDV oranlari ayri), yapay zekada yurt ici EVREN motoru secenegi, PDF kucultme iyilestirmesi.",
+  "tarih": "2026-11-26"
  },
- "imza": "2BHP0oR-BFu9whstRII91N9fT4TYeJUu2rATR6bAmNzEbvPHQVaFxNcWYJPe98RjcUj8r2Be8F8O31BuxARwCA"
+ "imza": "OfdShD8lNhs6e4ZrrIbSMQy8m-jM3LWYZGxugQnQSvC73JDvN-EKkb1DRx6aMww-ZgkFpbIBzlWPEKChimhPAg"
 }

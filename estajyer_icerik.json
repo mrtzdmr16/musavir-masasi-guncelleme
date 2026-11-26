@@ -3254,7 +3254,7 @@
       "Alacak Senetleri hesabına 3.200 ₺ alacak kayıt yapılır"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yenileme işleminde eski senet kayıtlardan düşülürken Alacak Senetleri hesabı 3.000 ₺ alacaklandırılır, yeni senet bedeli olan 3.200 ₺ borçlandırılır; aradaki 200 ₺ fark, senedin vadesinin uzatılması karşılığında tahakkuk eden faiz niteliğinde olduğundan 642 Faiz Gelirleri hesabında gelir olarak izlenir. Yani \"Alacak Senetleri Borç 3.200 / Alacak Senetleri Alacak 3.000, Faiz Gelirleri Alacak 200\" kaydı yapılır. En güçlü çeldirici E'dir; çünkü kapanan eski senet 3.200 ₺ değil, defter değeri olan 3.000 ₺ üzerinden alacaklandırılır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3269,7 +3269,7 @@
       "Menkul Kıymet Satış Zararları hesabının borç tarafına 25.000 ₺ kaydedilir"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Satış kaydında \"Bankalar 50.000\" borç, \"Menkul Kıymetler 60.000\" alacak olarak kapatılır; gerçekleşen değer düşüklüğü (60.000 – 50.000 = 10.000 ₺) daha önce ayrılan 12.500 ₺'lik karşılıktan karşılanır. Karşılığın kullanılmayan 2.500 ₺'lik fazla kısmı, THP'ye göre doğrudan satış kârı olarak gelir yazılamaz; dönem sonunda önceki dönem gelir ve kârlarına aktarılmak üzere 235 Konusu Kalmayan Karşılıklar hesabının alacağına kaydedilir. D şıkkındaki 15.000 ₺ kâr ise satış bedelinin nominal değerle (50.000 – 35.000) karşılaştırılmasından kaynaklanan yanlış bir mantıktır; karşılaştırma alış değeri üzerinden yapılır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3284,7 +3284,7 @@
       "Peşin Ödenen Vergiler ve Fonlar"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Tahsil edilen (hesaplanan) KDV, ödenen (indirilecek) KDV'den fazla ise aradaki fark vergi dairesine ödenmesi gereken bir yükümlülüktür; dönem sonunda 391 Hesaplanan KDV ile 191 İndirilecek KDV hesapları kapatılırken bu fark 360 Ödenecek Vergi ve Fonlar hesabının alacağına alınır. En güçlü çeldirici olan Devreden KDV hesabı ise tam tersi durumda, yani indirilecek KDV'nin hesaplanan KDV'den fazla olduğu dönemde aynı mantıkla ortaya çıkan alacağın kaydedildiği hesaptır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3299,7 +3299,7 @@
       "Gelecek Aylara Ait Gelirler"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Bilanço gününde henüz tahsil edilmemiş ancak dönemsellik gereği hak edilmiş faiz, 'Gelir Tahakkukları' hesabına borç, faiz geliri hesabına alacak yazılır. Vade henüz dolmadığından tutar Bankalar hesabına değil Gelir Tahakkukları (C) hesabına borç kaydedilir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3314,7 +3314,7 @@
       "Çek tutarı, Alacak Senetleri hesabının borç tarafına kaydedilir"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Bilanço tarihinde vadesi gelmemiş bir çek, kasa gibi nakit niteliğinde olmayıp vadesi geldiğinde tahsil edilecek bir alacak senedidir; özün önceliği ve dönem ayırımı gereği 101 Alınan Çekler hesabından çıkarılarak 121 Alacak Senetleri hesabının borcuna kaydedilir (121 Borç / 101 Alacak). Böylece bilançonun düzenlendiği tarihteki gerçek finansal durum doğru biçimde yansıtılmış olur. En güçlü çeldirici olan Verilen Çekler hesabı ise işletmenin kendi borçları için düzenlediği çekler için kullanıldığından bu işlemde yeri yoktur.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3329,7 +3329,7 @@
       "Hisse Senetleri hesabına 10.000 ₺ borç kayıt yapılır"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Hisse senetleri alımında, mükellefin yaptığı harcama (maliyet/satın alma bedeli) esas alınır; bu nedenle Hisse Senetleri hesabına nominal değer değil, ödenen tutar olan 2.000 × 5 = 10.000 ₺ borç kaydedilir (karşı kayıt Bankalar hesabının alacağıdır). Nominal değer, senedi ihraç eden tarafın kayıtlarında Sermaye ve Menkul Kıymetler İhraç Farkları hesapları için kullanılır; alıcı işletme açısından anlam ifade etmez. En güçlü çeldirici olan B şıkkı, nominal değeri (6.000 ₺) esas aldığı için yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3344,7 +3344,7 @@
       "Sayım ve Tesellüm Noksanları hesabına 2.000 ₺ alacak kayıt yapılır"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Sürekli envanter yönteminde normal fire, satılan malların maliyetinin doğal bir bileşeni kabul edildiğinden, hesap kalanı ile sayım sonucu arasındaki 2.000 ₺'lik fark doğrudan 621 Satılan Ticari Mallar Maliyeti hesabının borcuna kaydedilir (karşılığı 153 Ticari Mallar hesabına alacak yazılır). Sayım ve Tesellüm Noksanları hesabı ise ancak olağan dışı (hırsızlık, kayıp vb.) farklarda ve alacak değil borç yönünde kullanılır; dolayısıyla E şıkkı hem hesap hem yön açısından yanlıştır. Normal fire maliyet artışı niteliğinde olduğundan D şıkkındaki olağan dışı gider muamelesi de yapılmaz.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3359,7 +3359,7 @@
       "Gelecek Aylara Ait Giderler hesabının 60.000 ₺ kalan vermesi sağlanmalıdır"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Kira giderinin 60.000 ₺'lik kısmı içinde bulunulan dönemi ilgilendirdiğinden dönem sonunda bu tutar \"760 Pazarlama, Satış ve Dağıtım Giderleri\" hesabına aktarılır (satış mağazası kirası olduğu için); izleyen döneme ait 20.000 ₺ ise aktif karakterli \"180 Gelecek Aylara Ait Giderler\" hesabında kalmaya devam eder. Böylece hesabın dönem sonu kalanı 20.000 ₺ olur, bu da dönem eşleştirme (matching) ilkesinin gereğidir. E şıkkı güçlü çeldiricidir; ancak 60.000 ₺ giderleştirilecek kısmı gösterdiğinden, düzeltilmiş bakiyeyi değil yanlış bir kalanı ifade eder.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3374,7 +3374,7 @@
       "Birikmiş Amortismanlar hesabına 20.000 ₺ alacak kayıt yapılır"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TMS 16'ya göre yeniden değerleme modelinde, varlığın net defter değeri (25.000 − 20.000 = 5.000 ₺) yeniden değerlenmiş net tutara (50.000 − 30.000 = 20.000 ₺) çıkarılır ve aradaki 15.000 ₺'lik artış, diğer kapsamlı gelir altında \"Maddi Duran Varlıklar Yeniden Değerleme Artışları\" hesabının alacağında izlenir. Kayıtta Taşıtlar hesabına 25.000 ₺ borç (50.000 − 25.000), Birikmiş Amortismanlar hesabına 10.000 ₺ alacak (30.000 − 20.000) yazılır; borç toplamı alacak toplamını 15.000 ₺ aştığından fark yeniden değerleme artışına aktarılır. Bu nedenle B ve C şıklarındaki kaba tutarlar ile A'daki 20.000 ₺ borç kaydı yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3389,7 +3389,7 @@
       "11.000 ₺ değer düşüklüğü vardır ve karşılık ayrılmalıdır"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TMS 2'ye göre stoklar, maliyet ile net gerçekleştirilebilir değer (NRV) arasından düşük olanıyla değerlenir; NRV = tahmini satış fiyatı (35.000 ₺) – satış giderleri (6.000 ₺) = 29.000 ₺'dir. Maliyet (30.000 ₺) NRV'yi aştığından 1.000 ₺ değer düşüklüğü oluşur ve bu tutar için stok değer düşüklüğü karşılığı ayrılarak gider yazılır. D şıkkındaki 5.000 ₺ ise satış giderlerini (6.000 ₺) hesaba katmadan doğrudan piyasa fiyatı ile maliyet arasındaki farka bakılmasından kaynaklanan yanlış bir hesaplamadır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3404,7 +3404,7 @@
       "Araştırma giderleri finansal durum tablosunda, geliştirme giderleri kâr veya zarar ve diğer kapsamlı gelir tablosunda raporlanır"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TMS 38'e göre araştırma aşamasında gelecekteki ekonomik faydanların gösterilemeyeceği kabul edildiğinden, araştırma giderleri oluştuğu dönemde doğrudan gider kaydedilir ve asla aktifleştirilemez. Geliştirme giderleri ise teknik uygulanabilirlik, tamamlama niyeti, olası faydaların elde edilebilirliği ve maliyetin güvenilir ölçülebilirliği gibi ölçütlerin tamamı sağlanıyorsa maddi olmayan duran varlık olarak aktifleştirilir. En güçlü çeldirici B şıkkıdır; araştırma giderlerinin aktifleştirilmesi standarda aykırıdır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3419,7 +3419,7 @@
       "Döneme ait üretim maliyeti tablosu"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TMS 1'in 10. paragrafına göre tam bir finansal tablolar seti; finansal durum tablosu, kâr veya zarar ve diğer kapsamlı gelir tablosu, öz kaynak değişim tablosu, nakit akış tablosu ile dipnotlardan (önemsiz muhasebe politikaları ve diğer açıklayıcı bilgiler) oluşur. Üretim maliyeti tablosu bu sayılan unsurlar arasında yer almaz; bu tablo Vergi Usul Kanunu mevzuatına ve tekdüzen hesap planına bağlı olarak düzenlenen ek bir tablo olup, TMS 1 kapsamında zorunlu değildir. Dolayısıyla diğer dört şık TMS 1'de sayılan temel tablolarken, üretim maliyeti tablosu setin parçası değildir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3434,7 +3434,7 @@
       "Yükümlülükler"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TMS 1'de toplam kapsamlı gelir, tam olarak bu tanımla açıklanır: ortakların sermaye sahibi sıfatıyla taraf oldukları işlemler (örneğin sermaye artırımı veya temettü dağıtımı) hariç, bir dönemdeki işlem ve olaylardan kaynaklanan öz kaynak değişimidir; net dönem kâr/zararı ile diğer kapsamlı gelir kalemlerinin toplamından oluşur. Finansal durum tablosu belirli bir tarihteki varlık–yükümlülük–öz kaynak dengesini (stok değil akış bilgisi) sunduğundan ve nakit akış tablosu da yalnızca nakit hareketlerini gösterdiğinden bu tanıma uymaz.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3449,7 +3449,7 @@
       "155.750; 186"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İlk (Asal) Maliyet, Direkt İlk Madde ve Malzeme ile Direkt İşçilik giderlerinin toplamıdır: 107.750 + 31.000 = 138.750 ₺. Dönüşüm (Şekillendirme) Maliyeti ise hammaddenin ürüne dönüşümüne ilişkin giderleri kapsadığından Direkt İşçilik + Genel Üretim Giderleri toplamından oluşur: 31.000 + 48.000 = 79.000 ₺. En güçlü çeldirici olan B şıkkı, dönüşüm maliyetini tüm üretim maliyetleri toplamı (186.000 ₺) olarak yanlış hesaplamıştır; dönüşüm maliyetine direkt ilk madde dahil edilmez.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3464,7 +3464,7 @@
       "Fazla (+) 567.368, Fazla (+) 611.840, Fazla (+) 1.179"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Fazla/eksik yüklenen tutar, \"mamullere yüklenen (standart) GÜG – gerçekleşen GÜG\" farkı olarak hesaplanır: değişken GÜG'de 567.368 – 532.218 = +35.150 ₺ fazla yüklenmiş, sabit GÜG'de 611.840 – 613.916 = –2.076 ₺ eksik yüklenmiştir. Toplamda ise 1.179.208 – 1.146.134 = +33.074 ₺ net fazla yükleme ortaya çıkar (35.150 – 2.076 = 33.074). Fazla yüklenen GÜG, fiilen harcanandan standart oranla daha fazla giderin mamul maliyetine alındığını gösterir ve dönem sonunda maliyetlerden düşülerek (özellikle satılan mamul maliyeti/GÜG hesaplarından) gider kaydedilir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3473,13 +3473,13 @@
      "soru": "KGK Bağımsız Denetim Yönetmeliği’ne göre denetim kıstasını finansal tablolar açısından (i)----; yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından (ii)---- ve ilgili mevzuatın denetim kıstasına ilişkin hükümleri; diğer mevzuattan kaynaklanan denetim konuları açısından ise denetim kıstasıyla ilgili düzenlemeler veya bunların atıf yaptığı kurallar oluşturur. Diğer mevzuatta doğrudan veya dolaylı olarak denetim kuruluşları ve denetçiler tarafından denetim yapılmasının öngörüldüğü ancak denetim konularının hangi kıstaslara uyumunun aranacağının belirtilmediği durumlarda, denetim kıstası (iii)---- belirlenir. İsteğe bağlı yaptırılan denetimlerde ise bu belirleme denetimi talep edenlerce yapılır. Yukarıdaki ifadede boşlukları tamamlayan doğru seçenek aşağıdakilerden hangisidir?",
      "secenekler": [
       "(i) Türkiye Muhasebe Standartları (ii) Türk Ticaret Kanunu (iii) KGK tarafından",
-      "(i) Türkiye Muhasebe Standartları (ii)",
-      "(i) Türkiye Denetim Standartları (ii)",
+      "(i) Türkiye Muhasebe Standartları (ii) Sermaye Piyasası Kanunu (iii) ilgili taraflarca",
+      "(i) Türkiye Denetim Standartları (ii) Sermaye Piyasası Kanunu (iii) denetçi tarafından",
       "(i) Türkiye Muhasebe Standartları (ii) Bağımsız Denetim Standartları (iii) ilgili taraflarca",
       "(i) Türkiye Denetim Standartları (ii) Türkiye Muhasebe Standartları (iii) KGK tarafından"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "KGK Bağımsız Denetim Yönetmeliği'ne göre denetim kıstası; finansal tablolar açısından Türkiye Muhasebe Standartları, yıllık faaliyet raporları ile riskin erken saptanması sistemi açısından Türk Ticaret Kanunu ve ilgili mevzuattır. Hangi kıstasın aranacağı belirtilmemişse kıstası KGK belirler; doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3494,7 +3494,7 @@
       "Halka açık şirketler bağımsız denetim kuruluşları tarafından; diğer KAYİK’ler ve işletme büyüklükleri, çalışan sayısı ve benzeri ölçütlere göre KGK’ca belirlenen işletmeler ise denetim kuruluşu veya denetimi üstlenen bağımsız denetçiler tarafından yapılır"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "3568 sayılı Kanun kapsamındaki Bağımsız Denetim Yönetmeliği'nin 2018'de yapılan değişiklik uyarınca bağımsız denetim, KGK'ca yetkilendirilen bağımsız denetim kuruluşlarınca yürütülür; \"denetimi üstlenen bağımsız denetçi\" statüsü kaldırılmıştır. Dolayısıyla KAYİK'lerin ve KGK'ca belirlenen ölçütlere (faaliyet alanı, büyüklük, çalışan sayısı vb.) tabi işletmelerin denetimi yalnızca denetim kuruluşlarınca yapılır. B ve C seçenekleri, bağımsız denetçilerin de denetim yapabildiği eski düzenlemeyi yansıttığı için yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3509,7 +3509,7 @@
       "(i) yeterli (ii) geçerli bilgi, beyan ve belgelerdir"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetmelikteki tanıma göre denetim kanıtı, belirtilen güvence seviyesi için **yeterli ve uygun** bilgi, belge ve beyanlardan oluşur; yeterlilik kanıtın niceliğini, uygunluk ise niteliğini (ilgililiği ve güvenilirliği) ifade eder. Çeldirici E'deki \"geçerli\" ifadesi mevzuat terminolojisinde yer almaz; standartlarda kullanılan kavram çifti \"yeterli–uygun\"dur.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3524,7 +3524,7 @@
       "Bağımsız denetçilerin kendi adına denetim üstlenebilmesi için denetçi olabilme koşullarını karşılaması ve kadrosunda kendisi hariç en az iki sorumlu denetçi olması gereklidir"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Bağımsız denetçinin kendi adına denetim üstlenebilmesi için denetçi olabilme koşullarını taşıması yeterlidir. 'Kadrosunda kendisi hariç en az iki sorumlu denetçi bulunması' şartı tek başına denetçi için değil denetim KURULUŞLARI için geçerlidir; bu nedenle E yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3539,7 +3539,7 @@
       "Müşteri ilişkisinin ve belirli bir sözleşmenin kabulü ve devam ettirilmesi"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "KYS 1'e göre denetim şirketinin kalite yönetim sistemi; yönetişim ve liderlik (C), ilgili etik hükümler (D), risk değerlendirme süreci (A), müşteri ilişkilerinin ve sözleşmelerin kabulü/devam ettirilmesi (E) gibi sekiz unsurdan oluşur ve denetim firmasının kendi içinde kurduğu süreçleri kapsar. Denetlenen şirketin iç kontrol sistemi ise firma düzeyinde bir kalite yönetim unsuru olmayıp, sözleşme düzeyinde denetçinin işletmenin ortamını ve iç kontrolü anlayıp değerlendirmesi gereken bir konudur (KDS 315 kapsamında ele alınır). Dolayısıyla denetlenen tarafın iç kontrolü, denetim şirketinin kalite yönetim sisteminin bileşeni değildir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3554,7 +3554,7 @@
       "Dürüstlük, Tarafsızlık, Mesleki özen ve titizlik, Gizlilik, Mesleğe olan güven"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "KGK Bağımsız Denetim Yönetmeliği'nin etik ilkelere ilişkin hükmü, denetim kuruluşlarının ve denetçilerin uymakla yükümlü olduğu beş temel ilkeyi \"dürüstlük, tarafsızlık, mesleki yeterlilik ve özen, sır saklama ve mesleğe uygun davranış\" olarak saymaktadır. Bu beşli yapı, IFAC/IESBA Etik Davranış Kuralları'ndaki temel ilkelerin Türk mevzuatındaki karşılığıdır. En güçlü çeldirici B'deki \"bağımsızlık\" bu listede yer almaz; bağımsızlık etik ilke olarak değil, özellikle denetim görevlerinde tarafsızlığın görünümünü güvence altına alan ayrı bir zorunluluk olarak düzenlenmiştir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3569,7 +3569,7 @@
       "Denetlenen işletmeye tam tasdik, vergi danışmanlığı ve vergi denetimi dışında, danışmanlık veya başka bir hizmet verilmesi"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetmeliğin bağımsızlığı bozan/ortadan kaldıran haller sayılan maddesinde; denetim ücretinin sonuçlara şartlanması veya geçmiş ücretin haksız olarak tahsil edilememesi (mali bağımlılık/alacak ilişkisi yaratır), denetlenenle menfaat-ortaklık-borç ilişkisi ve izin verilenler dışında danışmanlık hizmeti verilmesi (özdenetim tehdidi) açıkça sayılmıştır. Buna karşılık kurumsal tanıtıcı bilgiler içeren broşür hazırlayıp dağıtmak, denetim kuruluşunun müşteri kazanmasına yönelik reklam yasağına ilişkin bir konu olup denetçinin nesnellik ve tarafsızlığı üzerine finansal çıkar, bağımlılık veya özdenetim tehdidi oluşturmaz. Bu nedenle broşür dağıtımı bağımsızlığı bozan bir hal olarak düzenlenmemiştir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3584,7 +3584,7 @@
       "Sözleşmenin Feshi"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İfade, denetçilerin denetim faaliyetinin niteliğini olumsuz etkileyecek veya meslektaşlarına zarar verecek biçimde davranamayacağını belirtmekte olup doğrudan 'Haksız Rekabette Bulunmama' ilkesiyle ilgilidir; doğru cevap B'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3599,7 +3599,7 @@
       "Kalite yönetim kurulu başkanına"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yenilenmiş BDS 220'ye göre denetim şirketi, kalite yönetim sistemi için nihai sorumluluk ve hesap verme yükümlülüğünü, işletme içinde yeterli yetkiye sahip olan icra kurulu başkanı (yönetici ortağı) veya eşdeğerine ya da uygun hâllerde yönetim kuruluna atamak zorundadır. Bu kişi(ler) kalite yönetim sisteminin tasarlanması, uygulanması ve sürdürülmesinden son aşamada sorumludur. En güçlü çeldirici olan \"sorumlu ortak başdenetçi\" ise şirketin bütün kalite yönetim sisteminden değil, tek tek denetim görevlerinin (bağımsız denetim sözleşmelerinin) yürütülmesi ve kalitesinden sorumludur.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3614,7 +3614,7 @@
       "“Önemli yanlışlık” riskinin ne kadar yüksek olduğu değerlendiriliyorsa muhtemelen daha az denetim kanıtı gerekecektir. Daha fazla denetim kanıtının elde edilmesi, denetim kanıtının düşük olan kalitesini telafi edebilir"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TDS'ye (TDS 500 – Denetim Kanıtı) göre, \"önemli yanlışlık\" riski ne kadar yüksek değerlendirilirse, o kadar **fazla** denetim kanıtına ihtiyaç duyulur; E seçeneğindeki \"daha az kanıt gerekecektir\" ifadesi bu mantığa ters düşer. Ayrıca standartlar uyarınca, düşük kaliteli (ilgisiz veya güvenilmez) denetim kanıtının eksikliği, daha fazla miktarda kanıt toplanarak telafi edilemez; kalite ile miktar birbirinin alternatifi değildir. Bu nedenle E'deki her iki varsayım da yanlıştır ve soruda aranan hatalı ifade bu şıktır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3629,7 +3629,7 @@
       "Önemliliğe ilişkin yargılar, denetçinin finansal tablo kullanıcılarının finansal bilgiye olan ihtiyaçlarını algılayışından, yanlışlığın büyüklüğünden veya niteliğinden ya da bu ikisinin bileşiminden etkilenir"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Denetim, finansal tabloların bütününde önemli yanlışlıkların tespit edilmesine yönelik makul güvence sağlamak üzere tasarlanır; dolayısıyla denetçinin sorumluluğu önemlilik arz etmeyen yanlışlıkların tespitine uzanmaz. BDS 320'ye göre önemlilik, denetimin planlanması, yürütülmesi ve yanlışlıkların etkisinin değerlendirilmesinde kullanılan bir kavramdır ve bu çerçevede önemsiz yanlışlıklar denetçinin raporlama sorumluluğunu etkilemez. Diğer şıklar (B, C, D, E) standardın önemliliğe ilişkin tanım ve açıklamalarıyla birebir uyumludur.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3644,7 +3644,7 @@
       "Mesleki muhakeme, bağımsız ve tarafsız bir yaklaşımla hareket ederek, hata veya hile kaynaklı yanlışlığa işaret eden durumlara karşı dikkatli olmayı ve denetim kanıtlarını titiz bir biçimde değerlendirmeyi içeren yargıdır"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "BDS Kavramsal Çerçeve'de mesleki muhakeme tam da bu şekilde tanımlanır: denetimin yürütülmesi sırasında atılacak adımlara ilişkin kararların alınmasında mevzuat ve ilgili standartlar çerçevesinde eğitim, bilgi ve deneyimin kullanılmasıdır. A şıkkı aslında \"makul güvence\"nin tanımıdır; C şıkkı ise \"mesleki şüphecilik\" tutumunu tanımladığı için çeldiricidir. Mesleki muhakeme bir yargı/tutum değil, bilgiye dayalı karar alma sürecinde uzmanlığın kullanılmasıdır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3659,7 +3659,7 @@
       "Sorumlu denetçi olabilmek için en az kıdemli denetçi veya başdenetçi olmak gerekir"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "BDY'de sorumlu denetçiliğin şartı belirli bir unvan sahibi olmak değil, süre ve tecrübe kriteridir: KAYİK denetimleri için 15 yıllık mesleki tecrübe (en az 3 yıl fiilen denetçi, kıdemli denetçi veya başdenetçi olarak) ve KAYİK dışı denetimler için 10 yıllık tecrübe (en az 2 yıl fiilen denetim yapmış olmak) yeterlidir. Tecrübe şartı \"denetçi\" unvanıyla geçirilen sürelerle de karşılanabildiğinden, sadece denetçi unvanına sahip bir kişi bile bu kriterleri sağlıyorsa KGK onayıyla sorumlu denetçi olarak görevlendirilebilir; dolayısıyla E'deki \"en az kıdemli denetçi veya başdenetçi olmak gerekir\" ifadesi yönetmelikte yer alan bir şart değildir. A, B, C ve D seçeneklerindeki ifadeler ise yönetmeliğin sorumlu denetçiye ilişkin hükümleriyle birebir uyuşur.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3674,7 +3674,7 @@
       "Denetim kuruluşları ve denetim üstlenen bağımsız denetçiler, mevcut iş yükü sebebiyle sağlıklı bir şekilde yürütmeleri mümkün olmayan denetimleri üstlenemezler"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Denetim faaliyetine ilişkin gerçek kısıtlamalar; sözleşme kabul kurallarına aykırı, kadrosu yetersiz veya iş yükü nedeniyle sağlıklı yürütülemeyecek denetimler ile rotasyon (aynı işletmede son on yılda yedi yıl sonrası üç yıl ara) kuralıdır. D'deki ifade yönetmelikteki kısıtlama hükmüyle örtüşmediğinden yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3689,7 +3689,7 @@
       "Denetimin Türkiye Denetim Standartları’na ve ilgili mevzuata uygun olarak yürütüleceği ve tamamlanacağı hususuna yer veren hüküm"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Sözleşmenin asgari şartları; denetim konusu ve kıstası, tarafların sorumlulukları, denetimin amaç-kapsam-dönemi ve TDS ile ilgili mevzuata uygun yürütüleceği hükmüdür. 'Sözleşmenin süresinden önce karşılıklı anlaşmayla feshedilebileceğine ilişkin hüküm' (D) asgari şartlardan değildir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3704,7 +3704,7 @@
       "Yasalara aykırı bir sınırlama değilse sözleşmeyi şartlı imzalar"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetim, denetçinin görüş vermekten kaçınmasını gerektirecek bir kapsam sınırlaması teklif ederse, mevzuatla aksi zorunlu kılınmadıkça denetçi böyle bir sözleşmeyi bağımsız denetim sözleşmesi olarak kabul etmez; doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3719,7 +3719,7 @@
       "Tespit edememe riski"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Bir yanlışlığın işletmenin iç kontrolleri tarafından zamanında önlenememesi veya tespit edilip düzeltilememesi riski 'kontrol riski'dir (D). Tespit edememe riski denetçinin prosedürlerine, yapısal (doğal) risk ise kontrollerden bağımsız olarak hesabın kendi niteliğine ilişkindir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3734,7 +3734,7 @@
       "Yeterli planlama, Denetim ekibine uygun personelin atanması, Mesleki şüpheciliğin uygulanması, Yürütülen denetim çalışmasının yönlendirilmesi, gözetimi ve gözden geçirilmesi"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Tespit edememe riskini kabul edilebilir düzeye indirmek; yeterli planlama, denetim ekibine uygun personel atanması, mesleki şüpheciliğin uygulanması ve çalışmanın yönlendirilmesi-gözetimi-gözden geçirilmesiyle sağlanır; doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3749,7 +3749,7 @@
       "Denetim kanıtlarının toplanması için denetçinin işletme içinde gerekli gördüğü kişilerle kısıtlama olmaksızın görüşme imkânı sağlama sorumluluğu"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetimin ön kabul sorumlulukları; tüm bilgilere erişim sağlamak, finansal tabloları geçerli çerçeveye uygun hazırlamak, ilave bilgi vermek ve denetçinin kişilerle sınırsız görüşmesine imkân tanımaktır. 'Kontrol eksikliklerini yönetime raporlama' (C) yönetimin değil denetçinin sorumluluğudur; bu nedenle ön kabul sorumluluğu değildir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3764,7 +3764,7 @@
       "Ücret gelirleri ve kira geliri için beyanname verilmeyecek olup, tevkif suretiyle kesilen vergiler nihai vergi olacaktır"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İki işverenden alınan tevkifatlı ücretlerde, birden sonraki işveren ücreti beyan sınırının altında kaldığından ücretler beyana dahil edilmez ve tevkifat nihai vergi olur. Buna karşılık tevkifatlı işyeri kira geliri beyan haddini aştığı için yalnızca işyeri safi kira geliri beyannameye dahil edilir; doğru cevap C'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3779,7 +3779,7 @@
       "Kanuni süresi içerisinde verilen bir beyannameye ilişkin olarak, kanuni süresinden sonra düzeltme amacıyla düzeltme beyannamesi veya pişmanlıkla beyanname verilmemiş olması"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Uyumlu mükellef indiriminin şartları; son iki yıl beyannamelerinin süresinde verilmesi, tahakkuk eden vergilerin ödenmiş olması, 1.000 TL'yi aşan vadesi geçmiş borcun bulunmaması ve VUK 359'daki fiillerin işlenmemiş olmasıdır. Kanuni süresinde verilen beyana ilişkin düzeltme/pişmanlık beyannamesi verilmemiş olması (E) artık aranan bir şart değildir; bu nedenle doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3794,7 +3794,7 @@
       "Borçludan teminat gösterilmesi istendiği halde belli müddette teminat veya kefil göstermemiş yahut şahsi kefalet teklifi veya gösterdiği kefil kabul edilmemişse"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "6183'e göre ihtiyati haciz; teminat gösterilmemesi, borçlunun belli ikametgâhının olmaması, kaçması/mal kaçırması ve mal bildiriminde bulunmaması gibi hâllerde uygulanır. Teşebbüsün muvazaalı olup gerçekte başkasına ait olduğuna dair delil bulunması (A) ihtiyati haciz sebebi değildir; doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3809,7 +3809,7 @@
       "Bir kağıtta toplanan akit ve işlemler birbirine bağlı ve bir asıldan doğma oldukları takdirde, en yüksek vergi alınmasını gerektiren akit veya işlem üzerinden vergi alınır"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Damga Vergisi Kanunu'nda 2016 sonrası düzenlemeyle, bir nüshadan fazla düzenlenen kâğıtlarda damga vergisi yalnızca bir nüsha üzerinden alınır. 'Nispi vergiye tabi her bir nüshanın ayrı ayrı damga vergisine tabi olduğu' (A) ifadesi bu nedenle yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3824,7 +3824,7 @@
       "İktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması işlemleri"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "BSMV kapsamına giren işlemler, basit usul teslimleri, külçe altın-gümüş teslimleri ve iktisadi işletmeye dahil olmayan gayrimenkul kiralaması KDV'den istisnadır. Spor-Toto ve piyango katılma bedelleri (C) ise KDV'den istisna değildir (özel matrah şekliyle vergiye tabidir); doğru cevap C'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3839,7 +3839,22 @@
       "İhracatın 213 sayılı Vergi Usul Kanunu’nda belirtilen mücbir sebep nedeniyle gerçekleştirilememesi halinde, sürenin dolduğu tarihten itibaren on beş gün içinde başvuran ihracatçılara üç aya kadar ek süre verilebilir"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İhraç kaydıyla teslimde imalatçının hesapladığı KDV tahsil edilmez, tarh-tahakkuk ettirilip tecil edilir ve malların teslimi izleyen ay başından itibaren üç ay içinde ihracıyla terkin olunur. Terkin süresinin 'altı ay' olduğunu söyleyen (C) yanlıştır; süre üç aydır.",
+     "kaynak": "SMMM Yeterlilik 2026-1"
+    },
+    {
+     "id": "y-20261-vm-12",
+     "konu": "Vergi Mevzuatı ve Uygulaması",
+     "soru": "5520 sayılı Kurumlar Vergisi Kanunu’na göre, aşağıdakilerden hangisi Kurumlar Vergisi mükellefi değildir?",
+     "secenekler": [
+      "İktisadî Kamu Kuruluşları",
+      "Türk Ticaret Kanunu’na göre kurulmuş olan Kollektif Şirketler",
+      "Sermaye Piyasası Kurulu’nun düzenleme ve denetimine tabi Yatırım Fonları",
+      "Kooperatifler Kanunu’na göre kurulmuş olan Kooperatifler",
+      "Türk Ticaret Kanunu’na göre kurulmuş olan Sermayesi Paylara Bölünmüş Komandit Şirketler"
+     ],
+     "dogru": 1,
+     "aciklama": "Kurumlar vergisi mükellefleri; sermaye şirketleri (anonim, limited ve sermayesi paylara bölünmüş komandit), kooperatifler, iktisadi kamu kuruluşları, dernek-vakıf iktisadi işletmeleri ve iş ortaklıklarıdır; yatırım fonları da bu kapsamdadır. Kollektif şirketler (B) bir şahıs şirketi olduğundan kurumlar vergisi mükellefi değildir; kazançları ortakları nezdinde gelir vergisine tabidir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3854,7 +3869,7 @@
       "Azaltılan sermayenin 500.000 ₺’sinin geçmiş yıl kârlarından, 500.000 ₺’sinin ise enflasyon düzeltmesi olumlu farklarından karşılandığı kabul edilecek ve buna göre vergileme yapılacaktır"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Sermaye azaltımında, sermayeye eklenmiş ve azaltım hâlinde vergilendirilmesi gereken unsurların öncelikle çekildiği kabul edilir: önce enflasyon düzeltmesi olumlu farkları, sonra geçmiş yıl kârları. 1.000.000 TL'lik azaltımın 800.000 TL'si enflasyon farkından, 200.000 TL'si geçmiş yıl kârından karşılanmış sayılır; doğru cevap D'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3869,7 +3884,7 @@
       "Kanuna ekli (III) ve (IV) sayılı listelerdeki malların, 4458 sayılı Gümrük Kanunu’nun 95 inci maddesinin (1) numaralı fıkrasına göre faaliyette bulunan gümrüksüz satış mağazalarında satılmak üzere bu mağazalara veya bunların depolarına teslimi Özel Tüketim Vergisinden istisnadır"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "ÖTV ihracat istisnası, teslimin yurt dışındaki alıcıya yapılması ve malın Türkiye Gümrük Bölgesi'nden çıkması şartlarına bağlıdır. Serbest bölgedeki alıcıya teslim ve malın serbest bölgeye ulaşması (B) ÖTV'de ihracat istisnası sayılmaz; doğru cevap B'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3884,7 +3899,7 @@
       "Oturma izni almamış anne ve babası"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Genel sağlık sigortalısının bakmakla yükümlü olduğu kişiler eş, çocuk, üvey çocuk, evlatlık ve geçimini sağladığı ana-babasıdır. Oturma izni (ülkede yasal bulunma koşulu) bulunmayan ana-baba (E) bu kapsamda değildir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3899,7 +3914,7 @@
       "Sigortalıya, geçici iş göremezlik süresince günlük geçici iş göremezlik ödeneği verilmesi"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Bu sigorta kollarından; geçici ve sürekli iş göremezlik ödeneği/geliri, cenaze ödeneği ve kız çocuklarına evlenme ödeneği sağlanır. Üçüncü derece yakınlara gelir bağlanması (C) yoktur; gelir yalnızca hak sahiplerine (eş, çocuk, ana-baba) bağlanır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3914,7 +3929,7 @@
       "Türkiye İş Kurumuna"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İşveren, işletme gereğiyle toplu işçi çıkarmak istediğinde durumu en az otuz gün önceden işyeri sendika temsilcilerine, ilgili bölge müdürlüğüne ve Türkiye İş Kurumuna yazıyla bildirmek zorundadır; doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3929,7 +3944,7 @@
       "Sulh Hukuk Mahkemesi"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TTK m.5'e göre, aksine hüküm olmadıkça değerine bakılmaksızın tüm ticari davalar ile ticari nitelikteki çekişmesiz yargı işlerine bakmakla görevli mahkeme Asliye Ticaret Mahkemesidir (B).",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3944,7 +3959,7 @@
       "Kıdem tazminatı"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İş sözleşmesinden doğan yıllık izin ücreti ve kötü niyet/eşit davranma/bildirim tazminatları beş yıllık zamanaşımına tabidir. Haksız fiilden doğan tazminat (A) ise bunlardan farklı olarak Türk Borçlar Kanunu'nun haksız fiil zamanaşımına (iki/on yıl) tabidir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3959,7 +3974,7 @@
       "5 yıl / destek ve teşvikten"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Çalıştırdığı kişileri sigortalı bildirmediği veya bildirdiği sigortalıyı fiilen çalıştırmadığı tespit edilen işverenler, bir yıl süreyle Kanunla sağlanan destek unsurlarından yararlanamaz; doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3974,7 +3989,7 @@
       "İdarî para cezaları 10 yıllık zamanaşımı süresine tabidir"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İdari para cezaları; tebliğden sonra 15 gün içinde peşin ödenirse dörtte üç oranında (yani 1/4 indirimli) uygulanır, mahkemeye başvuru tahsili durdurmaz, süresinde ödenmeyen cezaya gecikme zammı eklenir ve ceza 10 yıllık zamanaşımına tabidir. Peşin ödemenin yargı yolunu kapatması (B) doğru değildir; peşin ödeme dava hakkını ortadan kaldırmaz.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -3989,13 +4004,13 @@
       "Meslekî etik ve meslekî bağımsızlık kurallarını ihlal etmek"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetmelikte meslekle ve meslek onuruyla bağdaşmayan haller; yanında çalışanlara uygunsuz davranış, aşırı içki ve kumar düşkünlüğü, yasak işlerle uğraşma ve etik/bağımsızlık kurallarını ihlal gibi davranışlardır. Asgari ücretin altında iş kabul etmek (A) ise ücret/haksız rekabet düzenlemeleri kapsamında bir disiplin konusudur; bu başlık altında sayılmaz.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
      "id": "y-20261-mh-3",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Aşağıdakilerden hangisi 3568 sayılı Serbest Muhasebeci Mali M",
+     "soru": "Aşağıdakilerden hangisi 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu’na göre, Odaların gelirlerinden biri değildir?",
      "secenekler": [
       "Yardım ve bağışlar",
       "Odaya giriş ücretleri",
@@ -4004,13 +4019,13 @@
       "Mesleki eğitime yönelik kurs ücretleri"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Odanın gelirleri; üyelerin giriş ücretleri, yıllık aidatlar, yardım ve bağışlar ile kurs/eğitim gelirleridir. Ruhsatname ücretleri (D) Odanın değil, TÜRMOB (Birlik) gelirleri arasındadır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
      "id": "y-20261-mh-4",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Serbest Muhasebeci Mali M",
+     "soru": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği’ne göre, Oda Disiplin Kurulu kararlarına karşı ilgililer ne kadar süre içinde itiraz edebilirler?",
      "secenekler": [
       "Bildirim tarihinden itibaren 15 gün içinde",
       "Bildirim tarihinden itibaren 30 gün içinde",
@@ -4019,13 +4034,13 @@
       "Karar tarihinden itibaren 45 gün içinde"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Disiplin Yönetmeliğine göre Oda Disiplin Kurulu kararlarına karşı ilgililer, kararın bildirim (tebliğ) tarihinden itibaren 30 gün içinde Birlik Disiplin Kuruluna itiraz edebilir. Sürenin başlangıcı karar değil, bildirim tarihidir; bu nedenle doğru cevap B'dir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
      "id": "y-20261-mh-6",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Aşağıdakilerden hangisi Serbest Muhasebeci Mali M",
+     "soru": "Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği’ne göre, “reklam yoluyla haksız rekabete neden olacak eylem ve davranış” örneği olarak açıkça sayılan hallerden biri değildir?",
      "secenekler": [
       "Meslek mensuplarının dürüstlüğü, güvenirliği ve tarafsızlığı hakkında yanlış ve asılsız beyanlarda bulunmak",
       "Kendisi, hizmetleri ve faaliyetleri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunmak",
@@ -4034,13 +4049,13 @@
       "Üçüncü şahısları yanıltacak şekilde gerçeğe aykırı belge düzenlemek ve onaylamak"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Reklam yoluyla haksız rekabet örnekleri; meslektaş hakkında yanlış/asılsız beyan, kendi hizmetleri hakkında yanıltıcı açıklama, asılsız ihbar-şikâyet ve meslektaşı kötülemedir. Gerçeğe aykırı belge düzenleyip onaylamak (E) reklam kaynaklı değil, doğrudan mesleki bir ihlaldir; bu başlıkta sayılmaz.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
      "id": "y-20261-mh-7",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Aşağıdakilerden hangisi 3568 sayılı Serbest Muhasebeci Mali M",
+     "soru": "Aşağıdakilerden hangisi 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu’na göre, Odaların organlarından biri değildir?",
      "secenekler": [
       "Yönetim Kurulu",
       "Genel Kurul",
@@ -4049,7 +4064,7 @@
       "Denetleme Kurulu"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Odanın organları Genel Kurul, Yönetim Kurulu, Disiplin Kurulu ve Denetleme Kuruludur. Danışma Kurulu (C) Oda organı değildir; danışma işlevi Birlik düzeyinde yürür.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -4064,7 +4079,7 @@
       "Tarafların vergi daireleri"
      ],
      "dogru": 2,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetmeliğin 23üncü maddesi uyarınca sözleşmede asgari olarak tarafların isim, unvan, adres, vergi dairesi ve hesap numaraları, sözleşmenin konusu, yapılacak işlerin amacı-niteliği-kapsamı, ücretin tutarı ve ödeme şekli ile sözleşmenin başlangiç/bitiş tarihi ve sözleşme yeri bulunması zorunludur. \"Önceki meslek mensubunun adresi\" bu sayılan asgari unsurlar arasında yer almaz; önceki meslek mensubuna ilişkin bilgi sözleşmenin zorunlu içeriği değildir. Diğer şıklar (sözleşme yeri, ücret tutarı, işlerin amacı, tarafların vergi daireleri) yönetmelikte açıkça sayılan unsurlar olduğu için doğru çeldiricilerdir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -4079,7 +4094,7 @@
       "Taraf Tutma"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Etik İlkeler'deki beş temel tehdit; kişisel çıkar, kendi kendini denetleme (yeniden değerlendirme), taraf tutma (savunuculuk), yakınlık ve yıldırmadır. Gizlilik (A) bir temel etik ilkedir, tehdit türü değildir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -4094,28 +4109,28 @@
       "İş çevresinden sağlanacak önlemler"
      ],
      "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetmeliğe göre önlemler, \"meslek, mevzuat veya düzenlemeler ile oluşturulan önlemler\" ve \"iş çevresinden sağlanacak önlemler\" olmak üzere iki gruba ayrılmaktadır; iş çevresinden sağlanacak önlemler ayrı bir kategori olup mevzuatla oluşturulan önlemlere örnek değildir. Mevzuatla oluşturulan önlemlerin örnekleri; sürekli mesleki gelişim gereksinimleri, kurumsal yönetim gereksinimleri, mesleki standartlar ile mesleki veya düzenleyici izleme ve disiplin prosedürleridir. Dolayısıyla A, B, C ve D seçenekleri mevzuat grubuna girerken, E seçeneği ikinci grubun kendisini oluşturmaktadır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
      "id": "y-20261-mh-11",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Aşağıdakilerden hangisi 3568 sayılı Serbest Muhasebeci Mali M",
+     "soru": "Aşağıdakilerden hangisi 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu’na göre, meslek mensubu olabilmenin “genel şartları”ndan biri değildir?",
      "secenekler": [
       "Ceza veya disiplin soruşturması sonucunda memuriyetten çıkarılmış olmamak",
       "Medeni hakları kullanma ehliyetine sahip bulunmak",
       "Kamu haklarından mahrum bulunmamak",
-      "Serbest muhasebeci mali m",
+      "Serbest muhasebeci mali müşavirlik sınavını kazanmış olmak",
       "Meslek şeref ve haysiyetine uymayan durumları bulunmamak"
      ],
      "dogru": 3,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Genel şartlar; medeni hakları kullanma ehliyetine sahip olmak, kamu haklarından mahrum olmamak, memuriyetten çıkarılmamış olmak ve şeref-haysiyete aykırı durumunun bulunmamasıdır. Sınavı kazanmış olmak (D) genel değil, özel şartlardandır.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
      "id": "y-20261-mh-12",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Serbest Muhasebeci Mali M",
+     "soru": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği’ne göre, aşağıdakilerden hangisi “ücret ve diğer mali nitelikteki uygulamalarda” haksız rekabet örneği olarak açıkça sayılan hallerden biri değildir?",
      "secenekler": [
       "Bir meslek mensubuna olan ücret borcunu ödememiş iş sahibine hizmet vermek",
       "Meslek ruhsatının kiralanması veya çeşitli menfaatler sağlayarak meslek mensubu olmayan kişilere faaliyette bulunma imkanı sağlamak",
@@ -4124,13 +4139,13 @@
       "İş sahiplerine ait veya iş sahiplerinden elde edilen bilgileri kullanmak suretiyle ekonomik çıkar sağlamak"
      ],
      "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Ücret ve mali uygulamalarda haksız rekabet; ücret borcunu ödememiş iş sahibine hizmet, gerçeğe aykırı makbuz, menfaat sağlayarak iş alma ve iş sahibi bilgilerini kullanıp çıkar sağlamadır. Ruhsatın kiralanması/meslek dışı kişiye faaliyet imkânı (B) ayrı ve daha ağır bir ihlaldir; bu başlıkta sayılmaz.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
      "id": "y-20261-mh-15",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Serbest Muhasebeci Mali M",
+     "soru": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği’ne göre, aşağıdakilerden hangisi için Uyarma Cezası uygulanır?",
      "secenekler": [
       "En az iki kez yazı ile istenmesine rağmen, oda aidat borçlarının haklı gerekçe olmaksızın ödenmemesi",
       "Meslek mensuplarınca, sahip olunmayan unvanların kullanılması",
@@ -4139,37 +4154,7 @@
       "Büro tescil belgesi alınmaması"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
-     "kaynak": "SMMM Yeterlilik 2026-1"
-    },
-    {
-     "id": "y-20261-mh-16",
-     "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Yönetmeliği’ne göre, aşağıdakilerden hangisi",
-     "secenekler": [
-      "Birliğe ait mal gelirleri",
-      "Kurs ve eğitim gelirleri",
-      "Yeminli mali m",
-      "Ruhsatname ücretleri",
-      "Birliğe dahil odaların net gelirlerinin %10’unu geçmemek üzere, alınacak paylar"
-     ],
-     "dogru": 4,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
-     "kaynak": "SMMM Yeterlilik 2026-1"
-    },
-    {
-     "id": "y-20261-mh-17",
-     "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Yönetmeliği’ne göre, aşağıdakilerden hangisi",
-     "secenekler": [
-      "Birlik bütçesini hazırlamak",
-      "Uyulması mecburi mesleki kararlar almak",
-      "Mesleki standartları geliştirmek",
-      "Mesleki çalışma komiteleri kurmak",
-      "Meslek mensuplarının mesleki faaliyetlerini yürütmelerinde yardımcı olmak"
-     ],
-     "dogru": 1,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Uyarma, disiplin cezalarının en hafifidir; oda aidat borcunun en az iki kez yazıyla istenmesine rağmen haklı gerekçe olmadan ödenmemesi uyarmayı gerektirir. Diğer seçenekler (unvan/reklam/ticari faaliyet/büro tescili ihlalleri) daha ağır cezalara tabidir.",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -4184,7 +4169,7 @@
       "Adi ve kollektif şirketlerde ortak olamazlar"
      ],
      "dogru": 0,
-     "aciklama": "2026-1 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Meslek mensubu tacir/esnaf sayılacak faaliyette bulunamaz, ticari mümessillik-vekillik-acentelik yapamaz ve adi/kollektif şirkette ortak olamaz. Ancak komandit şirkette sorumluluğu sınırlı KOMANDİTER ortak olabilirler; 'komanditer ortak olamazlar' (A) ifadesi bu yüzden yanlıştır (yasak olan komandite ortaklıktır).",
      "kaynak": "SMMM Yeterlilik 2026-1"
     },
     {
@@ -4199,7 +4184,7 @@
       "Diğer Olağandışı Gider ve Zararlar"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İşletmenin sahip olduğu binaya yapılan ve binanın değerini/ömrünü artıran dış cephe yalıtım ve yenileme harcaması aktifleştirilir ve doğrudan 'Binalar' hesabına eklenir (A). Özel Maliyetler hesabı, sahip olunan değil kiralanan gayrimenkullere yapılan harcamalar için kullanılır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4214,7 +4199,7 @@
       "Çıkarılmış Tahviller"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Çıkarılmış Tahviller (E) işletmenin uzun vadeli yabancı kaynaklarını izleyen bir hesaptır. Anapara taksit ve faizleri ile çıkarılmış bonolar kısa vadeli borç; Kamu Kesimi Tahvil-Senet-Bonoları ise bir menkul kıymet (varlık) hesabıdır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4229,7 +4214,7 @@
       "Hisse Senedi İhraç Primleri"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Hisse senetlerinin nominal değerinin üzerinde satılması durumunda, nominal değer ile satış değeri arasındaki fark (emisyon primi) 'Hisse Senedi İhraç Primleri' hesabında muhasebeleştirilir; doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4241,10 +4226,10 @@
       "Reeskont Faiz Giderleri hesabına alacak kaydı yapılır",
       "Reeskont Faiz Giderleri hesabına borç kaydı yapılır",
       "Borç Senetleri hesabına borç kaydı yapılır",
-      "Borç Senetleri Reeskontu hesabına alacak kaydı yapılır. 1 B SMMM 26-2 MUHASEBE"
+      "Borç Senetleri Reeskontu hesabına alacak kaydı yapılır"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Borç senedi reeskontunda, gelecek döneme ait faiz gideri cari dönemden arındırılır: Borç Senetleri Reeskontu hesabı borçlandırılırken karşılığında Reeskont Faiz Gelirleri hesabı alacaklandırılır. Doğru cevap A'dır (Reeskont Faiz Gelirleri hesabına alacak kaydı).",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4259,7 +4244,7 @@
       "Direkt ilk madde ve malzeme gideri, direkt işçilik gideri, memur ücret ve gideri"
      ],
      "dogru": 2,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Genel üretim giderleri (GÜG), mamule doğrudan izlenemeyen endirekt maliyetlerden oluşur: endirekt madde ve malzeme (sarf malzemesi), endirekt işçilik ile elektrik, su, amortisman, bakım-onarım, kira gibi üretim faaliyetiyle ilgili diğer giderler. C şıkkındaki elektrik, amortisman ve sarf malzemesi kalemlerinin tamamı dolaylı nitelikte olduğundan birlikte GÜG oluşturur. En güçlü çeldiricilerdeki (örneğin A ve D) direkt işçilik, doğrudan mamule yüklendiği için ana maliyet unsuru olup GÜG kapsamına girmez.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4274,7 +4259,7 @@
       "Sarf malzemesi firesi"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Kusurlu mamuller, standartlara uymayan ancak ek işçilik ve malzeme ile tamir/iyileştirme (yeniden işleme) sonucu birinci kalite mamul haline getirilebilen ürünlerdir; bu nedenle ek işleme tabi tutulabilirler. Buna karşılık en güçlü çeldirici olan bozuk mamuller, ekonomik olarak onarılamayacak düzeyde hatalı olduğundan ek işleme alınsa bile birinci kaliteye dönüştürülemez, olduğundan ikinci kalite olarak satılır veya hurdaya ayrılır. Artık ve fire ise mamul niteliği taşımayan kayıplar olup yeniden işleme konusu değildir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4286,10 +4271,10 @@
       "21.000 ₺ olumlu, 25.000 ₺ olumsuz",
       "21.000 ₺ olumsuz, 25.000 ₺ olumsuz",
       "21.000 ₺ olumlu, 25.000 ₺ olumlu",
-      "25.000 ₺ olumsuz, 21.000 ₺ olumlu 5 B SMMM 26-2 UHASEBESİ"
+      "25.000 ₺ olumsuz, 21.000 ₺ olumlu"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Direkt işçilik zaman (süre) sapması = (Fiili süre − Standart süre) × standart ücret = (2.500 − 2.400) × 210 = 21.000 TL olumsuzdur (fazla süre çalışılmış). Ücret sapması = (Fiili ücret − Standart ücret) × fiili süre = (200 − 210) × 2.500 = 25.000 TL olumludur (saat ücreti standardın altında). Doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4304,7 +4289,7 @@
       "Standart maliyet sisteminin her işletmede kurulması ve uygulanması kolaydır"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Standart maliyet sistemi; direkt işçilik ve ilk madde maliyetlerinin kontrolünü, planlamayı ve sapma analiziyle yönetimin erken önlem almasını kolaylaştırır. 'Her işletmede kurulması ve uygulanması kolaydır' (E) yanlıştır; standartların belirlenmesi uzmanlık ve maliyet gerektiren zahmetli bir süreçtir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4319,7 +4304,7 @@
       "Muhasebe bilgi sistemi yönetim bilgi sisteminin bir alt sistemidir"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Muhasebe bilgi sistemi; bilgi teknolojileriyle ilişkilidir, verileri toplar-kaydeder-özetler-raporlar, maliyet ve yönetim muhasebesi alt sistemlerini içerir ve yönetim bilgi sisteminin bir alt sistemidir. 'Finansal muhasebe sadece işletme içi kullanıcıların ihtiyacını karşılar' (A) yanlıştır; finansal muhasebe esas olarak işletme dışı kullanıcılara (yatırımcı, kredi veren, kamu) yöneliktir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4334,7 +4319,7 @@
       "Kilit yönetici: Şirketin gözetimi ve denetiminden doğrudan sorumlu genel kurula hesap verme sorumluluğu olan yöneticilerdir"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Kilit yönetici; yönetim organı üyeleri dahil olmak üzere şirketin faaliyetlerini planlama, yönetme veya kontrol etme yetki ve sorumluluğuna doğrudan ya da dolaylı sahip olan kişilerdir; doğru cevap A'dır. Diğer seçenekler tanımı yalnızca 'finansal faaliyetlerle' sınırlayarak daraltmaktadır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4346,10 +4331,10 @@
       "Denetim, finansal tablolar ve diğer finansal bilgiler dâhil olmak üzere denetime tabi konuların belirlenmiş bir kıstasa uyumlu olup olmadığı hususunda kullanıcılara Türkiye Denetim Standartları çerçevesinde güvence sağlayacak bir görüş oluşturulması amacı ile yapılır",
       "Denetim, kullanıcılara denetim konusunun denetim kıstasına uyumuyla ilgili tam veya sınırlı güvence sağlar. Sınırlı güvence sağlayacağı ilgili mevzuatında veya denetim sözleşmesinde açıkça belirtilmemiş ise denetim tam güvence verecek şekilde gerçekleştirilir",
       "Denetim; denetimin konusu hakkında, mesleki etik ilkelere bağlı kalmak ve mesleki şüphecilik içinde bulunmak suretiyle, Türkiye Denetim Standartları çerçevesinde yeterli ve uygun denetim kanıtı toplanmasını, bu kanıtlara dayandırılarak bir görüş oluşturulmasını ve görüşün raporlanmasını kapsar",
-      "Denetimin unsurlarını; denetimin konusu, tarafları, kıstası, kanıtları ve denetim raporu oluşturur. 6 B SMMM 26-2 E DENETİMİ"
+      "Denetimin unsurlarını; denetimin konusu, tarafları, kıstası, kanıtları ve denetim raporu oluşturur"
      ],
      "dogru": 2,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Denetim makul veya sınırlı güvence sağlar; hiçbir zaman mutlak/tam güvence vermez. C seçeneğindeki 'tam güvence' ifadesi bu nedenle yanlıştır; sınırlı güvence açıkça belirtilmemişse denetim makul güvence verecek şekilde yürütülür.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4360,11 +4345,11 @@
       "Türk Ticaret Kanunu ve ilgili mevzuat dışında diğer mevzuatta doğrudan veya dolaylı olarak denetim kuruluşları ve denetçiler tarafından denetim yapılmasının öngörüldüğü ancak denetim konularının hangi kıstaslara uyumunun aranacağının belirtilmediği durumlarda, denetim kıstası KGK tarafından belirlenir",
       "Yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından Türk Ticaret Kanunu’nun ve ilgili mevzuatın denetim kıstasına ilişkin hükümleri; finansal tablolar açısından ise Türkiye Muhasebe Standartları kıstas alınır",
       "Türk Ticaret Kanunu ve ilgili mevzuat dışında diğer mevzuattan kaynaklanan denetim konuları açısından, denetim kıstasıyla ilgili düzenlemeler veya bunların atıf yaptığı kurallar denetim kıstasını oluşturur",
-      "Finansal tablolar açısından Türkiye Denetim Standartları; yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından",
+      "Finansal tablolar açısından Türkiye Denetim Standartları; yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından Sermaye Piyasası Kanunu ve ilgili mevzuatın denetim kıstasına ilişkin hükümleri kıstas alınır",
       "İsteğe bağlı yaptırılan denetimlerde denetim kıstasını belirleme denetimi talep edenlerce yapılır"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Finansal tablolar açısından kıstas Türkiye Muhasebe Standartları; yıllık faaliyet raporları ve risk sistemi açısından ise Türk Ticaret Kanunu ve ilgili mevzuattır. D seçeneği kıstası 'Türkiye Denetim Standartları' ve 'Sermaye Piyasası Kanunu' olarak gösterdiğinden yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4379,7 +4364,7 @@
       "Denetim rehberleri dahil olmak üzere, esasları KGK’ca belirlenen kalite yönetim sistemine ilişkin politika ve süreçlerini yazılı olarak oluşturmuş olması"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yönetmeliğe göre kendi adına denetim üstlenecek bağımsız denetçinin **sorumlu denetçi** olabilme şartlarını karşılaması öngörülmüştür; \"kıdemli denetçi\" olma şartı aranmaz, bu nedenle B seçeneği yanlıştır. Diğer seçeneklerdeki şartlar (tam zamanlı istihdam, kadroda en az bir sorumlu denetçi daha bulunması, başka denetim kuruluşlarıyla bağı olmama, yazılı kalite yönetim sistemi) yönetmelikte birebir düzenlenmiştir. Çeldirici, sorumlu denetçi ile kıdemli denetçi kavramlarını karıştırarak oluşturulmuştur.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4394,7 +4379,7 @@
       "(i) en az 3 yıl süreyle; (ii) En az on beş yıl mesleki tecrübeye"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Denetçi olmak isteyenlerin en az üç yıl süreyle uygulamalı mesleki eğitim alması şarttır; en az on beş yıl mesleki tecrübeye sahip olanlarda bu şart aranmaz. Doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4406,10 +4391,10 @@
       "KGK Bağımsız Denetim Yönetmeliği’nin uygulamasında mesleki tecrübe bağımsız denetimde fiilen geçirilen süredir. Ancak, 3568 sayılı Kanun kapsamındaki mesleki faaliyetlerde veya aynı Kanun uyarınca staj ve stajdan sayılan hizmetlerde bulunulan süreler de bu sürenin hesabında dikkate alınır",
       "Uygulamalı mesleki eğitim almakta olan denetçiler, uygulamalı mesleki eğitim döneminde kıdemlerine göre görev alırlar ve denetçilerin refakatinde denetim çalışmalarına katılırlar",
       "Uygulamalı mesleki eğitim döneminde, refakatinde denetçi çalıştıranlar, teorik bilgilerin uygulamaya geçirilmesi amacıyla, denetçilerin gerekli mesleki yeterliliği kazanmaları için her türlü tedbiri alır",
-      "Denetçi, uygulamalı mesleki eğitim almakta olan denetçileri denetimlerde görevlendirmek, denetlenen işletme ile görüşmelere göndermek, onlarla birlikte çalışmak ve birlikte hazırladıkları çalışma kağıtlarını birlikte incelemek gibi konularda yetkili ve yükümlüdür. 7 B SMMM 26-2 E DENETİMİ"
+      "Denetçi, uygulamalı mesleki eğitim almakta olan denetçileri denetimlerde görevlendirmek, denetlenen işletme ile görüşmelere göndermek, onlarla birlikte çalışmak ve birlikte hazırladıkları çalışma kağıtlarını birlikte incelemek gibi konularda yetkili ve yükümlüdür"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Mesleki tecrübe, bağımsız denetimde fiilen geçirilen süredir; ancak 3568 sayılı Kanun kapsamındaki mesleki faaliyetlerde ya da staj ve stajdan sayılan hizmetlerde geçen süreler de bu hesaba dahil edilir. Doğru cevap B'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4424,7 +4409,7 @@
       "Denetim sözleşmesi"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Tanım, denetim kanıtlarının değerlendirilmesiyle oluşturulan denetçi görüşünün kullanıcılara sunulduğu ve sorumluluğu üstlenilen belgeyi, yani 'Denetim Raporu'nu tarif etmektedir; doğru cevap D'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4439,7 +4424,7 @@
       "KGK tarafından her denetim kuruluşuna ve denetçiye bir sicil numarası verilir"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Faaliyet izni askıya alınma geçici bir tedbirdir ve tek başına sicilden silinmeyi gerektirmez; silme, faaliyet izninin iptali, faaliyette bulunmayacağını beyan veya sürekli eğitim yükümlülüğünün yerine getirilmemesi hâllerinde olur. Askıya alınanları da silinenler arasında sayan A yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4454,7 +4439,7 @@
       "Denetim ekipleri, denetimlerini baş denetçinin gözetim ve idaresi altında gerçekleştirir"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Denetim ekiplerinde; o denetim için yetkisi bulunmayan denetçiler, denetçi yardımcıları, teknik uzmanlar ve yardımcı diğer kişiler, denetçi olarak görevlendirilmemek kaydıyla yer alabilir; doğru cevap D'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4466,10 +4451,10 @@
       "Görüş bildirmekten kaçınıldığına ilişkin görüş",
       "Sınırlı olumlu görüş",
       "Olumsuz görüş",
-      "Şartlı görüş 8 B SMMM 26-2 E DENETİMİ"
+      "Şartlı görüş"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Denetim konusunun genelini etkileyen önemli hususlarda yeterli ve uygun kanıt elde edilemediğinde veya görüş oluşturmayı engelleyen belirsizlikler bulunduğunda denetçi 'görüş bildirmekten kaçınır' (B). Olumsuz görüş, kanıt elde edilip önemli yanlışlık tespit edildiğinde verilir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4484,7 +4469,7 @@
       "Kaliteyi gözden geçiren kişinin denetime ilişkin görüş veya sonuçları desteklemek için kanıt toplamasına gerek yoktur, ancak denetim ekibi, kalitenin gözden geçirilmesi sırasında ortaya çıkan hususlara karşılık vermek amacıyla daha fazla kanıt toplayabilir"
      ],
      "dogru": 2,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Kalitenin gözden geçirilmesi, denetim ekibinin yaptığı önemli muhakemelerin ve ulaştığı sonuçların nesnel biçimde değerlendirilmesidir; tüm bulgu ve kanıtların yeniden/bağımsız denetimi değildir. Kapsamı bu şekilde genişleten C yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4499,7 +4484,7 @@
       "Denetçi bu durumda söz konusu mevzuata uymak zorundadır"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Etik Kurallar'da, mevzuatın etik kurallardan daha kısıtlayıcı hükümler içermesi durumunda bağımsız denetçinin mevzuattaki bu daha sıkı hükümlere uyması gerektiği açıkça hükme bağlanmıştır; yani daha kısıtlayıcı olan düzenleme uygulanır. Bu kuralın amacı, kamu yararına hizmet sorumluluğunun en üst düzeyde korunmasıdır. B şıkkı yanlıştır çünkü mevzuat daha kısıtlayıcı olduğundan etik kuralların değil, mevzuatın uygulanması esastır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4511,10 +4496,10 @@
       "Dürüstlük",
       "Adillik",
       "Bağımsızlık ve tarafsızlık",
-      "Mesleğe uygun davranış 9 B SMMM 26-2 E DENETİMİ"
+      "Mesleğe uygun davranış"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Doğru iş yapmayı, güvenilir olmayı ve olumsuz sonuç veya baskı olsa dahi uygun davranma gücünü içeren temel ilke 'Dürüstlük'tür; doğru cevap B'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4529,7 +4514,7 @@
       "Makul güvence denetçinin kalite standartlarını uygulayarak ulaştığı mutlak olmayan güvencedir. Denetçi raporlama ilke ve esaslarına uygun denetim yaparak makul güvence sağlamış olur"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "BDS 200'ün tanımına göre makul güvence, yüksek ancak mutlak olmayan bir güvence düzeyidir; mutlak güvence denetimin doğası gereği (kanıtın seçimsel olarak test edilmesi, iç kontrolün sınırları ve yönetimin örtülü davranışları nedeniyle) mümkün değildir. Denetçi, denetim riskini kabul edilebilir düzeyde düşük seviyeye indirecek yeterli ve uygun denetim kanıtı toplayarak bu güvenceye ulaşır. B şıkkı güçlü bir çeldirici olsa da aslında BDS 450'deki yanlışlıkların değerlendirilmesi sürecini tanımlar ve makul güvencenin asıl tanımı olan \"yüksek ama mutlak olmayan güvence\" ifadesini içermez.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4544,7 +4529,7 @@
       "İç denetçilerin bağımsız denetçilere yardımcı olmalarının sağlanması sorumluluğu"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "BDS 210'a göre denetimin ön kabul şartları kapsamında yönetime yüklenen sorumluluklar; finansal tabloların geçerli finansal raporlama çerçevesine göre hazırlanması, hata veya hileden kaynaklanan önemli yanlışlıkları önleyecek iç kontrolün tasarlanması-uygulanması, denetçiye kayıt-belge ve diğer tüm bilgilere erişim ile kısıtsız görüşme imkânı sağlanmasıdır. İç denetçilerin bağımsız denetçilere \"yardımcı olmalarının sağlanması\" bu ön kabul sorumlulukları arasında sayılmamıştır; denetçi iç denetimin işinden yararlanmayı ancak BDS 610 kapsamında kendi profesyonel yargısıyla ve uygunluk değerlendirmesi sonucunda seçebilir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4556,10 +4541,10 @@
       "Sadece 266.050 ₺ safi kira geliri beyannameye dahil edilmelidir",
       "1.500.000 ₺ huzur hakkı ve 266.050 ₺ safi kira geliri beyannameye dahil edilmelidir",
       "1.500.000 ₺ huzur hakkı ve 306.000 ₺ safi kira geliri beyannameye dahil edilmelidir",
-      "3.000.000 ₺ huzur hakkı ve 306.000 ₺ safi kira geliri beyannameye dahil edilmelidir. 11 B SMMM 26-2 VE UYGULAMASI"
+      "3.000.000 ₺ huzur hakkı ve 306.000 ₺ safi kira geliri beyannameye dahil edilmelidir"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Tek işverenden alınan tevkifatlı huzur hakkı (ücret) beyan edilmez. Mükellefin beyana tabi başka geliri bulunduğundan konut kira istisnasından yararlanamaz; 360.000 TL kira gelirine yalnızca %15 götürü gider uygulanarak kalan 306.000 TL safi kira geliri beyan edilir. Doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4571,10 +4556,10 @@
       "Kaza mercilerinin re’sen biçtikleri değerler",
       "Takdir esası",
       "Maliyet bedeli esası",
-      "Karşılaştırılabilir fiyat yöntemi 12 B SMMM 26-2 VE UYGULAMASI"
+      "Karşılaştırılabilir fiyat yöntemi"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "VUK'un 267. maddesine göre emsal bedel sırasıyla ortalama fiyat esası, maliyet bedeli esası ve takdir esasına göre (ayrıca kaza mercilerinin biçtiği değerler dikkate alınarak) belirlenir. 'Karşılaştırılabilir fiyat yöntemi' (E) transfer fiyatlandırmasında kullanılan bir yöntemdir; VUK'taki emsal bedel esaslarından değildir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4589,7 +4574,7 @@
       "Cezanın bağlı olduğu vergi alacağının doğduğu tarihi takip eden günden başlayarak 2 tam yıl"
      ],
      "dogru": 2,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "VUK md. 114/1'e göre vergi ziyaı cezasında vergi alacağının doğduğu takvim yılını izleyen yılın birinci gününden itibaren 5 yıllık ceza kesme zamanaşımı süresi geçtikten sonra ceza kesilemez. A şıkkındaki 2 yıllık süre ise özel durum olup sadece Emlak, Veraset-İntikal, Motorlu Taşıtlar Vergisi ile harçlarda uygulanır; kaçakçılık suçlarında ise süre 20 yıla çıkar.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4604,7 +4589,7 @@
       "Ödeme emri tebliği"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "6183'te tahsil zamanaşımını kesen hâller; ödeme, haciz tatbiki, mal bildirimi, amme alacağının teminata bağlanması ve ödeme emri tebliğidir. Borçlunun yabancı memlekette bulunması (D) zamanaşımını kesmez, durdurur; bu nedenle kesen hâllerden değildir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4616,10 +4601,10 @@
       "(Z) A.Ş.’nin ortaklarından yaptığı borçlanma tutarı toplamı, dönem başı öz sermayenin üç katını aştığından örtülü sermaye oluşmuştur",
       "Örtülü sermayenin tespitinde, iştirak (G) A.Ş.’nin mükellef kuruma aktardığı kredi dikkate alınmaz",
       "Örtülü sermayenin tespitinde Bay (F)’den alınan borç %50 oranında dikkate alınır",
-      "Örtülü sermayenin tespitinde Ortak (K) Bankasından alınan kredi dikkate alınmaz. 13 B SMMM 26-2 VE UYGULAMASI"
+      "Örtülü sermayenin tespitinde Ortak (K) Bankasından alınan kredi dikkate alınmaz"
      ],
      "dogru": 2,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Örtülü sermaye, ortaklardan veya ilişkili kişilerden alınan ve dönem başı öz sermayenin üç katını aşan borçlanmalardır; banka/finans kurumu olan ortaktan alınan kredide oran farklı dikkate alınır. İştirak (G) A.Ş.'nin bankadan temin edip aynı şartlarla mükellefe aktardığı kredi, bu düzenleme kapsamında örtülü sermaye tespitinde dikkate alınmaz; doğru cevap C'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4634,7 +4619,7 @@
       "Kurumlar vergisi beyannamesi vermez, sadece tevkif suretiyle vergilendirilir"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Kanuni ve iş merkezi Almanya'da bulunan (DEF) GmbH, Türkiye'de yalnızca şubesi aracılığıyla faaliyet gösterdiğinden dar mükelleftir ve sadece Türkiye'de elde ettiği kazançlar üzerinden vergilendirilir; doğru cevap B'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4649,7 +4634,7 @@
       "Re'sen veya ikmalen geçici vergi tarh edilebilmesi için geçmiş dönemlere ait geçici verginin %10'u aşan tutarda eksik beyan edildiğinin tespiti gerekir"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Geçici vergi üçer aylık kazançlar üzerinden hesaplanır, ticari kazanç sahipleri ve serbest meslek erbabı tarafından verilir ve yıllara sâri inşaat kazançları matrahına dahil edilmez. Geçici verginin 'artan oranlı tarifeye göre' hesaplandığını söyleyen (D) yanlıştır; geçici vergi tek (sabit) oran üzerinden hesaplanır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4664,7 +4649,7 @@
       "1.800.000 / 500"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Tecil edilebilir KDV, ihraç kaydıyla teslim bedeli üzerinden hesaplanan KDV'dir: 9.000.000 × %20 = 1.800.000 TL. Ödenecek KDV ise toplam hesaplanan KDV (10.000.000 × %20 = 2.000.000) eksi indirilecek KDV (1.500.000) = 500.000 TL olup, tecil edilecek KDV bu iki tutarın küçüğü olan 500.000 TL'dir; doğru cevap E'dir (1.800.000 / 500.000).",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4679,7 +4664,7 @@
       "Yatırım izleme ve koordinasyon başkanlıkları adına kayıt ve tescil edilen taşıtlar"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "MTV istisnaları; %90 ve üzeri engelliler, Kızılay, köy tüzel kişilikleri ve yatırım izleme-koordinasyon başkanlıkları adına kayıtlı taşıtları kapsar. Karşılıklılık şartıyla dahi fahri konsoloslar adına kayıtlı taşıtlar (B) istisna değildir; istisna asli diplomatik temsilci ve konsoloslar içindir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4691,10 +4676,10 @@
       "(F) Otomotiv A.Ş.’nin ithal ettiği bir binek otomobili kullanmak üzere aktifine alması",
       "Bayan (L)’nin Almanya’dan aldığı 2. el binek otomobili Türkiye’de adına kayıt ve tescil ettirmesi",
       "Bay (K)’nın icra dairesinin düzenlediği müzayededen daha önce Türkiye’de trafik siciline kayıt ve tescil edilmemiş bir sıfır binek otomobili satın alarak adına kayıt ve tescil ettirmesi",
-      "Bay (S)’nin yetkili (Y) bayisinden sıfır motosiklet satın alarak adına kayıt ve tescil ettirmesi 14 B SMMM 26-2 VE UYGULAMASI"
+      "Bay (S)’nin yetkili (Y) bayisinden sıfır motosiklet satın alarak adına kayıt ve tescil ettirmesi"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "(II) sayılı listedeki kayıt-tescile tabi malların ilk iktisabı; kullanmak üzere aktife alma, ithal edilenin tescili veya müzayededen sıfır alıp tescil gibi hâllerde doğar. Motorlu araç ticareti yapan bayinin aracı SATMAK amacıyla alması (A) ilk iktisap sayılmaz; bu ticari mal niteliğinde bir alımdır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4709,7 +4694,7 @@
       "Yurt dışındaki firmalara ait ürünlerin Türkiye'de satışı için bu firmalara verdiği pazarlama ve aracılık hizmetleri"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Bir hizmetin KDV'nin konusuna girmesi için Türkiye'de yapılması veya Türkiye'de yararlanılması gerekir; yurt dışında verilip yurt dışında yararlanılan hizmetler (A-D) konuya girmez. Yurt dışı firmaların ürünlerinin Türkiye'deki satışına yönelik pazarlama-aracılık hizmetinden Türkiye'de yararlanıldığından (E) bu hizmet KDV'nin konusuna girer.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4721,10 +4706,10 @@
       "İnşaatın tamamlanma tarihinden itibaren",
       "Yapı kullanma izin belgesi alındığı tarihten itibaren",
       "Konutun kiraya verildiği tarihten itibaren",
-      "2026 takvim yılı başından itibaren 14 TEST BİTTİ. Vergi Mevzuatı ve Uyg. Cevap Anahtarı A B C D Doğru Kitapçığı Kitapçığı Kitapçığı Kitapçığı Cevap Soru No Soru No Soru No Soru No Şıkkı 1 2 1 3 A 2 3 2 1 B --> A Şık Değ. 3 1 3 2 A 4 15 17 20 A 5 11 19 17 E 6 10 18 12 B 7 5 15 9 C 8 16 5 14 C 9 14 4 10 D 10 18 8 6 D 11 7 10 18 C 12 8 16 13 A 13 9 6 8 B 14 20 11 4 D 15 17 20 11 E 16 19 14 15 B 17 6 13 7 A 18 13 12 19 B 19 4 9 5 E 20 12 7 16 E * Tablo; yayımlanmış olan A kitapçığında yer alan soruların B göstermektedir. B, C ve D kitapçıklarında hangi soruya karşılık geldiğini"
+      "2026 takvim yılı başından itibaren"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Emlak Vergisi Kanunu'na göre bina vergisi mükellefiyeti, inşaatın bittiği veya kullanılmaya başlandığı yılı takip eden bütçe (takvim) yılından itibaren başlar. İnşaat 2025'te tamamlanmış olsa da mükellefiyet 2026 yılı başından itibaren başlar; doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4739,7 +4724,7 @@
       "İşveren, iş arama izni esnasında işçiyi çalıştırır ise işçinin izin kullanarak bir çalışma karşılığı olmaksızın alacağı ücrete ilaveten, çalıştırdığı sürenin ücretini yüzde yüz zamlı öder"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Yeni iş arama izni; iş saatleri içinde, ücret kesintisi yapılmadan ve günde en az iki saat olarak verilir, işçi isterse toplu kullanabilir; bu sürede çalıştırılırsa ücret %100 zamlı ödenir. İşveren izni vermez veya eksik kullandırırsa o süreye ait ücreti işçiye ÖDEMEK zorundadır; bu nedenle A yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4751,10 +4736,10 @@
       "Hazine ve Maliye Bakanlığı",
       "Üniversiteler",
       "Adalet Bakanlığı",
-      "Çalışma ve Sosyal Güvenlik Bakanlığı 9 B SMMM 26-2 KUK"
+      "Çalışma ve Sosyal Güvenlik Bakanlığı"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "4857 sayılı İş Kanunu ile ilgili yönetmelikleri çıkarmaya yetkili kurum Çalışma ve Sosyal Güvenlik Bakanlığı'dır; doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4769,7 +4754,7 @@
       "Kira bedelleri, anapara faizleri ve ücret gibi diğer dönemsel edimler"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TBK m.147'de beş yıllık zamanaşımına tabi alacaklar; kira, faiz ve ücret gibi dönemsel edimler, konaklama-yeme-içme bedelleri, küçük sanat/perakende satış ve (ağır kusur hâli dışında) eser sözleşmesi alacaklarıdır. Banka kredileri ve kredi kartı borçları (D) ise genel on yıllık zamanaşımına tabidir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4784,7 +4769,7 @@
       "Yanılan, sözleşmeyi yaparken belirli nitelikleri olan bir kişiyi dikkate almasına karşın başka bir kişi için iradesini açıklamışsa"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TBK m.31'e göre esaslı yanılma hâlleri; başka bir sözleşme, başka bir konu, başka bir kişi veya niteliği esaslı bir kişi/konuda iradenin açıklanmasıdır. Basit hesap yanlışları (A) sözleşmenin geçerliliğini etkilemez, yalnızca düzeltilir; bu yüzden esaslı yanılma sayılmaz.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4799,7 +4784,7 @@
       "Bölünebilir borç"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Birden çok borçludan her birinin alacaklıya karşı borcun tamamından sorumlu olmayı kabul ettiğini bildirmesi müteselsil borç doğurur (B); alacaklı borcun tamamını dilediği borçludan isteyebilir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4814,7 +4799,7 @@
       "Kambiyo senedi"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "TTK'ya göre fatura, makbuz ve poliçe gibi belgeler elektronik imzayla düzenlenebilirken; poliçe, bono ve çek gibi kambiyo senetleri (E) güvenli elektronik imzayla düzenlenemez, el yazısıyla imza zorunludur.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4829,7 +4814,7 @@
       "Sözlü devir beyanı ve zilyetliğin teslimi"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Emre yazılı kıymetli evrakın devri, her hâlde ciro ile birlikte senet zilyetliğinin (teslimin) devrini gerektirir; doğru cevap A'dır. Tek başına ciro veya tek başına teslim yeterli değildir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4841,10 +4826,10 @@
       "Taksitle satım sözleşmelerine ilişkin kamuya yapılan ilanlarda unvanını açıkça belirtmek",
       "Başkasının malları, iş ürünleri, faaliyetleri veya işleri ile karıştırılmaya yol açan önlemler almak",
       "Paye, diploma veya ödül almadığı hâlde bunlara sahipmişçesine göstermek",
-      "Kendisine emanet edilmiş teklif, hesap veya plan gibi bir iş ürününden yetkisiz yararlanmak 10 B SMMM 26-2 KUK"
+      "Kendisine emanet edilmiş teklif, hesap veya plan gibi bir iş ürününden yetkisiz yararlanmak"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Müşteriyi yanıltmak, karıştırmaya yol açan önlemler, sahip olunmayan unvan/ödülü varmış gibi göstermek ve emanet iş ürününden yetkisiz yararlanmak dürüstlüğe aykırı/haksız rekabet hâlleridir. Taksitli satış ilanında unvanını açıkça belirtmek (B) ise yasal bir yükümlülüktür, aykırılık değildir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4859,7 +4844,7 @@
       "Sigortalı sayılanlara saatlik, günlük, haftalık veya aylık olarak para ile ödenen ve süreklilik niteliği taşımayan brüt tutarı ifade eder"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "5510 sayılı Kanun'un 3/12 bendine göre ücret; 4 üncü maddenin birinci fıkrasının (a) ve (c) bentlerine göre sigortalı sayılanlara, iş sözleşmesine dayalı olarak, saatlik, günlük, haftalık, aylık veya yıllık olarak para ile ödenen ve süreklilik niteliği taşıyan **brüt** tutardır. Tanımın vazgeçilmez unsurları süreklilik ve brütlük olduğundan, \"net tutar\" diyen ve süreklilik özelliğini atlayan B ile A seçenekleri kanun metnine aykırıdır. Ayrıca brüt ücret üzerinden prim hesaplandığı için sosyal güvenlik mevzuatında ücret daima gelir vergisi ve sigorta primi kesintilerinden önceki tutar olarak tanımlanır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4874,7 +4859,7 @@
       "İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenler"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Süreksiz görevli sporcular, yedek subay okulu öğrencileri, işverenin ücretsiz çalışan eşi ve rehabilite edilen hastalar 5510 kapsamında sigortalı sayılmaz. Buna karşılık sendika ve konfederasyon ile şubelerinin başkanlık ve yönetim kuruluna seçilenler (E) sigortalı sayılır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4889,7 +4874,7 @@
       "Türkiye İş Kurumu tarafından düzenlenen toplum yararına çalışma programlarından yararlananlar"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "A şıkkındaki kişiler (esnaf ve sanatkâr siciline kayıtlı, gelir vergisinden muaf olanlar) kendi nam ve hesabına bağımsız çalıştıklarından 5510 sayılı Kanun'un 4/b (bağımsız çalışan sigortalılar) kapsamındadır; 4/a ise işçi statüsünde hizmet akdiyle çalışmaya dayanır. B, C, D ve E şıklarındaki gruplar ise Kanun'un 4/a maddesinde sigortalı sayılanlar arasında açıkça düzenlenmiştir (yabancı hizmet akdiyle çalışanlar, güzel sanatlarla uğraşanlar, 4081 sayılı Kanun'a göre çalıştırılanlar, toplum yararına program katılımcıları). Dolayısıyla 4/a kapsamı dışında kalan tek grup bağımsız çalışan esnaf/sanatkârlardır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4904,7 +4889,7 @@
       "İş kazası ve meslek hastalığı sigortası"
      ],
      "dogru": 2,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "5510 m.3'e göre kısa vadeli sigorta kolları iş kazası-meslek hastalığı, hastalık ve analık; uzun vadeli kollar ise malullük, yaşlılık ve ölüm sigortasıdır. İşsizlik sigortası (C) ayrı bir kanunla (4447) düzenlenir, bu kollardan biri değildir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4919,7 +4904,7 @@
       "Danıştay, istinaf ve vergi mahkemelerinde 60 gün, idare mahkemelerinde 30 gün"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İYUK'a göre idari dava açma süresi, özel kanunlarda ayrı süre gösterilmeyen hâllerde Danıştay ve idare mahkemelerinde 60 gün, vergi mahkemelerinde 30 gündür; doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4931,10 +4916,10 @@
       "Davanın esastan reddine karar verilir",
       "Yürütmenin durdurulmasına karar verilir",
       "Tebligat ücretinin yatırılması için 6 ay süre verilir",
-      "Dosya işlemden kaldırılır, dava açılmamış sayılır. 11 B SMMM 26-2 KUK"
+      "Dosya işlemden kaldırılır, dava açılmamış sayılır"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İYUK m.6'ya göre posta ücreti tebligatı engelleyecek şekilde eksik kalır ve verilen süreye rağmen tamamlanmazsa dosya işlemden kaldırılır; süresinde yeniden tamamlanmazsa dava açılmamış sayılır. Doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4949,7 +4934,7 @@
       "İdare, gecikmeksizin işlem tesis etmeye mecburdur. Bu süre hiçbir şekilde kararın idareye tebliğinden başlayarak doksan günü geçemez"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "İYUK m.28'e göre idare, mahkemenin esasa ve yürütmenin durdurulmasına ilişkin kararlarının gereğini gecikmeksizin yerine getirmek zorundadır; bu süre kararın idareye tebliğinden itibaren hiçbir şekilde otuz günü geçemez. Doğru cevap D'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4964,7 +4949,7 @@
       "Ücret sözleşmesinin sözlü yapıldığının belirlenmesi durumunda, meslek mensubu hakkında disiplin cezası uygulanır"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Ücret sözleşmesi yazılı yapılmalı, belli bir meblağı kapsamalı; hizmet karşılığı ortaklık payı verilemez ve sözlü yapıldığının belirlenmesi disiplin cezası gerektirir. Yabancı firmalarla sözleşmenin Türk Lirası cinsinden olması şart değildir (döviz üzerinden de düzenlenebilir); bu nedenle A yanlıştır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4979,7 +4964,7 @@
       "Üç yılda bir eylül ayı içinde"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "SMMM Odaları Yönetmeliğine göre Oda Genel Kurulu, üç yılda bir Mayıs ayı içinde olağan olarak toplanır; doğru cevap D'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -4994,13 +4979,13 @@
       "Yönetim Kurulu"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Birliğin (TÜRMOB) organları Genel Kurul, Yönetim Kurulu, Disiplin Kurulu ve Denetleme Kuruludur. 'Haksız Rekabet Kurulu' (B) diye bir Birlik organı yoktur.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
      "id": "y-20262-mh-8",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Serbest Muhasebeci Mali M",
+     "soru": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği’ne göre aşağıdakilerden hangisi “Meslek mensupları arasında ve iş sahipleriyle ilişkilerde haksız rekabet” başlığı altında özellikle haksız rekabet teşkil eden hallerden birisi olarak sayılmamıştır?",
      "secenekler": [
       "Muhasebe ve denetim standartlarına uymamak",
       "İş sahiplerine ait veya iş sahiplerinden elde edilen bilgileri kullanmak suretiyle ekonomik çıkar sağlamak",
@@ -5009,7 +4994,7 @@
       "Bağımlı çalışan meslek mensupları bakımından aynı anda birden çok işletmede mesleki sorumluluk üstlenmek"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Standartlara uymamak, ruhsat kiralama, gerçeğe aykırı belge onayı ve aynı anda birden çok işletmede sorumluluk üstlenmek bu başlıkta haksız rekabet olarak sayılmıştır. İş sahibinden elde edilen bilgileri kullanıp çıkar sağlamak (B) bu başlıkta değil, sır saklama/ücret-mali ihlali kapsamında düzenlenir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -5021,10 +5006,10 @@
       "Kişisel çıkar tehdidi",
       "Yeniden değerlendirme tehdidi",
       "Yıldırma amaçlı tehdit",
-      "Yakınlık tehdidi 16 B SMMM 26-"
+      "Yakınlık tehdidi"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Ek-1'de sayılan tehditler; kişisel çıkar, kendi kendini denetleme (yeniden değerlendirme), yakınlık, yıldırma ve taraf tutmadır. 'Kurumsal itibar tehdidi' (A) diye bir tehdit türü sayılmamıştır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -5039,13 +5024,13 @@
       "Yanlı veya önyargılı davranarak; üçüncü kişilerin haksız ve uygunsuz biçimde yaptıkları baskıların meslek mensubunun meslekî kararlarını etkilememesi veya engellememesidir"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Tarafsızlık; meslek mensubunun yanlı veya önyargılı davranmaması ve üçüncü kişilerin haksız baskılarının mesleki kararını etkilememesidir (E). A dürüstlük, B mesleki özen, C mesleki davranış, D ise gizlilik ilkesini tanımlar.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
      "id": "y-20262-mh-12",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Serbest Muhasebeci Mali M",
+     "soru": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği’nde sayılan “geçici olarak mesleki faaliyetten alıkoyma” cezasına göre mesleki sıfatı saklı kalmak koşuluyla mesleki faaliyetten alıkonulma süresi aşağıdakilerden hangisinde doğru olarak verilmiştir?",
      "secenekler": [
       "Bir aydan az, üç aydan fazla olamaz",
       "Bir aydan az, altı aydan fazla olamaz",
@@ -5054,13 +5039,13 @@
       "Bir yıldan az, üç yıldan fazla olamaz"
      ],
      "dogru": 3,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Disiplin Yönetmeliğine göre 'geçici olarak mesleki faaliyetten alıkoyma' cezasında süre altı aydan az, bir yıldan fazla olamaz; doğru cevap D'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
      "id": "y-20262-mh-13",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Serbest Muhasebeci Mali M",
+     "soru": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği’ne göre; meslek mensuplarınca, asgari ücret tarifesinde yer alan ücretlerin altında iş kabul edilmesi durumunda meslek mensubuna hangi ceza uygulanır?",
      "secenekler": [
       "Kınama",
       "Uyarma",
@@ -5069,28 +5054,28 @@
       "Meslekten çıkarma"
      ],
      "dogru": 0,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Asgari ücret tarifesinin altında iş kabul edilmesi, uyarmadan bir derece ağır olan Kınama cezasını gerektirir; doğru cevap A'dır.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
      "id": "y-20262-mh-14",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "3568 sayılı Serbest Muhasebeci Mali M",
+     "soru": "3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu’na göre aşağıdakilerden hangisi meslek mensubu olabilmenin “özel şartları”ndan biri değildir?",
      "secenekler": [
       "En az üç yıl staj yapmış olmak",
       "Kanun’da sayılan dallarda eğitim veren fakülte ve yüksekokullardan en az lisans seviyesinde mezun olmak",
       "Medeni hakları kullanma ehliyetine sahip bulunmak",
-      "Serbest muhasebeci mali m",
-      "Serbest muhasebeci mali m"
+      "Serbest muhasebeci mali müşavirlik sınavını kazanmış olmak",
+      "Serbest muhasebeci mali müşavirlik ruhsatını almış olmak"
      ],
      "dogru": 2,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Özel şartlar; ilgili dallarda en az lisans mezuniyeti, en az üç yıl staj, SMMM sınavını kazanmak ve ruhsat almaktır. Medeni hakları kullanma ehliyetine sahip olmak (C) ise genel şarttır, özel şart değildir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
      "id": "y-20262-mh-15",
      "konu": "Muhasebecilik ve Mali Müşavirlik Meslek Hukuku",
-     "soru": "Her konudan 100 üzerinden en az (i)_____ almak şartıyla, sınavın tüm konularının not ortalamasının en az (ii)_____ olması gerekir. Tezkiye (staj) not ortalaması ayrı bir ders gibi ortalamaya dahil (iii)_____. Yeminli Mali M",
+     "soru": "Her konudan 100 üzerinden en az (i)_____ almak şartıyla, sınavın tüm konularının not ortalamasının en az (ii)_____ olması gerekir. Tezkiye (staj) not ortalaması ayrı bir ders gibi ortalamaya dahil (iii)_____. Yeminli Mali Müşavirlik ve Serbest Muhasebeci Mali Müşavirlik Sınav Yönetmeliği’ne göre Serbest Muhasebeci Mali Müşavirlik sınavında başarılı olmanın koşulunu gösteren bu ifadelerde boşlukları doğru olarak tamamlayan seçenek aşağıdakilerden hangisidir?",
      "secenekler": [
       "(i) 50; (ii) 50; (iii) edilir",
       "(i) 50; (ii) 60; (iii) edilir",
@@ -5099,7 +5084,7 @@
       "(i) 50; (ii) 50; (iii) edilmez"
      ],
      "dogru": 1,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Sınav Yönetmeliğine göre SMMM sınavında başarı için her konudan en az 50 almak şartıyla tüm konuların not ortalamasının en az 60 olması gerekir; tezkiye (staj) not ortalaması ayrı bir ders gibi ortalamaya dahil edilir. Doğru cevap B'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     },
     {
@@ -5111,10 +5096,10 @@
       "Yılda en az 15 kredi ve her üç yılda en az 45 kredi",
       "Yılda en az 30 kredi ve her üç yılda en az 60 kredi",
       "Yılda en az 30 kredi ve her üç yılda en az 90 kredi",
-      "Yılda en az 30 kredi ve her üç yılda en az 120 kredi 17 B SMMM 26-"
+      "Yılda en az 30 kredi ve her üç yılda en az 120 kredi"
      ],
      "dogru": 4,
-     "aciklama": "2026-2 TÜRMOB-TESMER SMMM Yeterlilik sınavı sorusu.",
+     "aciklama": "Sürekli Mesleki Geliştirme Eğitimi Yönetmeliğine göre meslek mensubu yılda en az 30 kredi ve her üç yılda en az 120 kredilik eğitim yükümlülüğünü yerine getirir; doğru cevap E'dir.",
      "kaynak": "SMMM Yeterlilik 2026-2"
     }
    ],

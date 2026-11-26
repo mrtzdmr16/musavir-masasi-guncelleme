@@ -1,11 +1,11 @@
 {
  "payload": {
-  "surum": "1.9.7",
-  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.7/MusavirMasasi_Kurulum_1.9.7.exe",
-  "sha256": "0c740de33a0f7db02d190349cdca1348b4a06c707d31d37129e52a6a196829d1",
-  "boyut": 229967001,
-  "notlar": "Surum 1.9.7: Ana sayfaya Firma Girisleri (vergi/SGK portallarina tek tikla, bilgiler otomatik dolar), Fis Okuyucu e-Fatura duzeltmeleri (dogru matrah, miktar, farkli KDV oranlari ayri), yapay zekada yurt ici EVREN motoru secenegi, PDF kucultme iyilestirmesi.",
+  "surum": "1.9.8",
+  "url": "https://github.com/mrtzdmr16/musavir-masasi-guncelleme/releases/download/v1.9.8/MusavirMasasi_Kurulum_1.9.8.exe",
+  "sha256": "085bce1d7731a786df5b70a203bc12b4f7e8785ebcf908aed21765e0da555aeb",
+  "boyut": 230444894,
+  "notlar": "Surum 1.9.8: E-Stajyer Egitim buyuk icerik genislemesi (120+ yeni konu anlatimi ve gecmis donem Yeterlilik sinav sorulari, cozum aciklamalariyla) ve stajyerlere gonderilebilen ucretsiz cep uygulamasi baglantisi (staj.musavirmasasi.com).",
   "tarih": "2026-11-26"
  },
- "imza": "OfdShD8lNhs6e4ZrrIbSMQy8m-jM3LWYZGxugQnQSvC73JDvN-EKkb1DRx6aMww-ZgkFpbIBzlWPEKChimhPAg"
+ "imza": "n8M-n94Tgj9zXc4tfG04U4ZrjnqOugFVR5bBqU6V6hr4_9SyruwPHVPqbz22CSl19kYzHAoV06qM1kTOBH-JDg"
 }
